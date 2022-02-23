@@ -1,0 +1,1101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamb calling his follovvers to retirement Being a gumble enquiry into the duty of churches, ministers, and all that fear the Lord, under the present dispensation of God. By one that would be found (though unworthy) the Lords witness and servant, and of all his saints.</title>
+            <author>One that would be found the Lords witness and servant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 65 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48465</idno>
+            <idno type="STC">Wing L213A</idno>
+            <idno type="STC">ESTC R221678</idno>
+            <idno type="EEBO-CITATION">99832952</idno>
+            <idno type="PROQUEST">99832952</idno>
+            <idno type="VID">37427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37427)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2188:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamb calling his follovvers to retirement Being a gumble enquiry into the duty of churches, ministers, and all that fear the Lord, under the present dispensation of God. By one that would be found (though unworthy) the Lords witness and servant, and of all his saints.</title>
+                  <author>One that would be found the Lords witness and servant.</author>
+               </titleStmt>
+               <extent>[8], 118 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface dated: The 25. of the 5. month, 1662.</note>
+                  <note>Copy tightly bound.</note>
+                  <note>Reproduction of the original in the Congregational Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37427:1"/>
+            <pb facs="tcp:37427:1"/>
+            <p>THE LAMB CALLING HIS Follovvers TO Retirement.</p>
+            <p>Being an Humble Enquiry into the duty of Churches, Miniſters, and all that fear the Lord, under the preſent diſ<g ref="char:EOLhyphen"/>penſation of God.</p>
+            <p>By one that would be found (though unworthy) the Lords Witneſs and Servant, and of all his SAINTS.</p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 4. 5.</hi>
+               </bibl> Judge nothing before the time,</q>
+            <p>Printed in the year, 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37427:2"/>
+            <pb facs="tcp:37427:2"/>
+            <head>TO THE READER.</head>
+            <p>THe different apprehenſions of the People of God in this day, concerning their pre<g ref="char:EOLhyphen"/>ſent duty, (being cut off from their publick liberties of Worſhip) gave occaſion to the enſuing Enquiry; ſome judging it of abſolute neceſſity to aſ<g ref="char:EOLhyphen"/>ſemble openly, though they expoſe them<g ref="char:EOLhyphen"/>ſelves (or at leaſt their Teachers) to the utmoſt hazard; others, that <hi>Re<g ref="char:EOLhyphen"/>tirement</hi> is that which the preſent diſpenſation calls for, which later this brief Diſcourſe endeavours to prove, as juſtifiable from the Scripture, and the practiſe of the People of God in former Ages, but more eſpecially to be the <hi>voice of the Lord</hi> to his people in the preſent day, in which there is a con<g ref="char:EOLhyphen"/>curring judgement of many.</p>
+            <p>
+               <pb facs="tcp:37427:3"/>But that <hi>Retirement</hi> which is <hi>firſt</hi> called to, namely, unto the Lord Jeſus himſelf (which is briefly prest in the former part) is that which is com<g ref="char:EOLhyphen"/>mended to all, as abſolutely neceſſary, as ever they expect to be found under his wing at his coming and appearing; <hi>and, Reader,</hi> hear the call of Jeſus Chriſt therein, that thou mayſt lay up thy immortal ſoul with him, that when storms are coming upon the World, thou mayſt be found in thy Sanctuary, in thy Chambers of Reſt and Safety, where they ſhall not reach thee.</p>
+            <p>As to the Caſe of <hi>Retirement</hi> from open Aſſembling, it is plainly ſtated from Scripture evidence, as is humbly apprehended, wherein if there be not enough ſaid to ſatisfie a doubting Con<g ref="char:EOLhyphen"/>ſcience, yet, at leaſt, there may be ſuf<g ref="char:EOLhyphen"/>ficient to engage humble and ſober minds to a mutual forbearance.</p>
+            <p>The duties of all Saints, <hi>under this Retirement,</hi> are but <hi>briefly</hi> hinted, becauſe of brevity, and in that they
+<pb facs="tcp:37427:3"/>
+have been more at large preſt by the Servants of God, in the two years of mercy we have enjoyed (as the peculiar bleſſing of this City) to the honour of the Lord Jeſus, the eſtabliſhment of the Saints in the faith and worſhip of the Goſpel, and in the Reſurrection of the Cauſe of the Kingdom of Chriſt in theſe Nations, the vindicating and aſserting whereof, hath, as is hoped, left a gratious and powerful impreſſion and ſavour up<g ref="char:EOLhyphen"/>on the Spirits of the Lords people, that ſo they may be found the more quietly ſubmitting to the diſpenſation of the Lord, as bleſſedly establiſht in the fore<g ref="char:EOLhyphen"/>mentioned truths, and may (in thoſe holy principles in which they have been built up) continue in a more private way, edifying one another in love, as thoſe (in this their retirement) that are waiting for the ſpeedy return of their Lord, that when he comes he may find them ſo doing. This you may do, as under the wings of the Almighty, in a probable ſecurity, and not <hi>haſten</hi>
+               <pb facs="tcp:37427:4"/>
+your ſelves into your own ſufferings, and if the providence of God, ſingle out any of you to a ſuffering testimony, in the loſs of liberty, or goods, or to ba<g ref="char:EOLhyphen"/>niſhment, verily, you will know the <hi>tender heart</hi> of Jeſus Chriſt towards you, and his <hi>faithfulneſſe</hi> in making up all to you and yours, and that in this life, a hundred fold.</p>
+            <p>Be quiet you Captives of hope, for, <hi>in returning and reſt ſhall ye be ſa<g ref="char:EOLhyphen"/>ved, in quietneſſe and confidence ſhall be your ſtrength;</hi> And though the Lord give you the bread of adverſi<g ref="char:EOLhyphen"/>ty, and the water of affliction, yet ſhall not thy Teachers be removed into cor<g ref="char:EOLhyphen"/>ners any more, but thine <hi>EYES SHALL SEE THY TEACH<g ref="char:EOLhyphen"/>ERS.</hi> Do not think that the Lord is now at the end of twenty years work, and that the preſent diſpenſation is the laſt iſſue of all his glorious providences, you have ſometime believed that the <hi>Exaltation of the Lord Jeſus</hi> would be the iſsue of all the ſhakings the Lord
+<pb facs="tcp:37427:4"/>
+hath made in theſe Nations, and you have as great, if not a greater ground to abide in the <hi>ſame Faith</hi> as ever; Take heed of a bewildred Spirit under the dark providences the Lord is lead<g ref="char:EOLhyphen"/>ing us, but conſider what the Lord hath been doing, and what <hi>work hath been upon the wheele,</hi> and by faith la<g ref="char:EOLhyphen"/>bour to look <hi>to the end of the Lord,</hi> and you will be able quietly to wait for him.</p>
+            <p>I wiſh the Caſe in hand had been ſta<g ref="char:EOLhyphen"/>ted by an abler hand, but finding no<g ref="char:EOLhyphen"/>thing herein, I have found my Spirit (often looking for light from the Fa<g ref="char:EOLhyphen"/>ther of lights) drawn out to caſt in this mite, to the preſent Generation of the righteous, as hoping that the <hi>voice of the Lamb</hi> is in it, in the main ſcope of it; And though, it may be, in what is hinted about the <hi>death of the witneſ<g ref="char:EOLhyphen"/>ſes,</hi> I may differ from ſome of the Lords Servants, yet I promiſe my ſelf their forbearance, it being an houre of en<g ref="char:EOLhyphen"/>quiry, and we would be all glad to know
+<pb facs="tcp:37427:5"/>
+the mind of Chriſt in our day. Some<g ref="char:EOLhyphen"/>thing more may be offerd to conſidera<g ref="char:EOLhyphen"/>tion to clear thoſe hints, and of the na<g ref="char:EOLhyphen"/>ture of the Kingdom of Chriſt in this World, if the Lord permit. Now the bleſſed God and Father of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, preſerve all his in this houre of temptation, and lead us into his whole Counſel and Will, to whoſe immu<g ref="char:EOLhyphen"/>table grace I commend thee, in the pati<g ref="char:EOLhyphen"/>ent waiting for Zions Redemption,</p>
+            <closer>
+               <dateline>
+                  <date>The 25. of the 5. Month, 1662.</date>
+               </dateline>
+               <signed>Reſting, Thy Brother and Fellow-Servant in the Patience of Chriſt.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:37427:5"/>
+            <epigraph>
+               <bibl>ESAY 26. 20.</bibl>
+               <q>Come my People enter thou into thy Chambers, and ſhut thy doors about thee; hide thy ſelf, as it were, for a little moment, untill the in<g ref="char:EOLhyphen"/>dignation be overpaſt.</q>
+            </epigraph>
+            <p>THE ſpecial <hi>Wiſdome</hi> of the People of God in all Ge<g ref="char:EOLhyphen"/>nerations, under the <hi>vari<g ref="char:EOLhyphen"/>ety</hi> of his diſpenſations, hath been to know what the Lord hath ſpoken, and called his People to, under them, in the knowledge of which hath been bound up their, mercy and peace in every Genera<g ref="char:EOLhyphen"/>tion.</p>
+            <p>All their miſcarriages have been for want of attending hereunto, ei<g ref="char:EOLhyphen"/>ther in a day of peace and outward bleſſing, or in a day of affliction and
+<pb n="2" facs="tcp:37427:6"/>
+judgement. The ſafety of <hi>this peo<g ref="char:EOLhyphen"/>ple</hi> to whom this word was ſpoken, <hi>Enter into thy Chambers, &amp;c.</hi> did lye in the obedience thereof at that day, which let us a little more particularly conſider.</p>
+            <p>This Prophet, though many years before the day of it, ſpake of the Captivity of <hi>Judah,</hi> and alſo of her return and reſtauration, with the bleſſings that ſhould attend it, which reſtauration he more at large begins to diſcover at the 14. Chap. <hi>For the Lord will have mercy upon Jacob, and will yet chuſe Iſrael, and ſet them to their own Land, &amp;c.</hi> Upon which, the Prophet having denounced the <hi>burden of the Lord</hi> againſt <hi>Babylon,</hi> Chap. 13. threa<g ref="char:EOLhyphen"/>tens all other Nations to the 25. Chap. that but <hi>helped</hi> in or <hi>rejoy<g ref="char:EOLhyphen"/>ed</hi> at the day of his Peoples Capti<g ref="char:EOLhyphen"/>vity, as <hi>Moab,</hi> and <hi>Syria,</hi> and <hi>Egypt,</hi> and <hi>Tyre, &amp;c.</hi>
+            </p>
+            <p>As is more generally expreſt, <hi>ch.</hi>
+               <pb n="3" facs="tcp:37427:6"/>
+17. 12, 13, 14. <hi>Wo to the multitude of many people, which make a noiſe, like the noiſe of the ſeas, and to the ruſhing of Nations, that make a ruſhing of mighty waters; But God ſhall rebuke them, and they ſhall flee afar off, and ſhall be chaſed as the chaffe of the Mountains before the wind, and like a rouling thing before the whirlewind;</hi> what is the reaſon of all this? why, <hi>This is the portion of them that ſpoil us, and the lot of them that rob us;</hi> The reſtoring and ſalvation of <hi>Judah</hi> was accompanied with the <hi>diſtreſs</hi> of all the Nations round a<g ref="char:EOLhyphen"/>bount her, and with the utter ruine of the Babyloniſh Monarchy, ſet forth, <hi>chap.</hi> 29.</p>
+            <p>
+               <hi>The great revolutions &amp; periods of all the Nations of the World, have been the iſsues of the Captivity or Deliverance of the people of God, and God hath go<g ref="char:EOLhyphen"/>vernd the World in ſubſerviency there<g ref="char:EOLhyphen"/>unto.</hi>
+            </p>
+            <p>The Prophet having thus ſpoken
+<pb n="4" facs="tcp:37427:7"/>
+of <hi>Jacobs</hi> deliverance, and the great Earth-quake of the Nations that ſhould accompany it, At the 25, 26, and 27. chap. you have ſongs of praiſe referring to that day, mixt with promiſes of the Meſſiah, our Lord Jeſus Chriſt, and the Know<g ref="char:EOLhyphen"/>ledge, Light, Peace, and Glory that ſhould be the iſſue of the diſpenſa<g ref="char:EOLhyphen"/>tion of grace by him to the Jews and Gentiles, even all the Nations of the Earth in this 26. chap. You have the ſong of praiſe continued, ſpecially reſpecting <hi>Judahs</hi> gather<g ref="char:EOLhyphen"/>ing, magnifying the power of the Lord in her ſalvation, and in the ruine of <hi>Babylon, v.</hi> 4, 5. their po<g ref="char:EOLhyphen"/>ſture in their captivity, <hi>v. 8. lo we have waited for thee,</hi> &amp;c. <hi>Their viſi<g ref="char:EOLhyphen"/>ting the Lord</hi> in their diſtreſſe, and <hi>powering out prayer</hi> before him, <hi>v.</hi> 16, 17, 18. At the <hi>18th.</hi> verſe they are brought in complaining, that they had been in <hi>pangs,</hi> yet had <hi>wrought no deliverance in the Earth,</hi> neither
+<pb n="5" facs="tcp:37427:7"/>
+had the Inhabitants of the World fallen; At the 19. verſe, the Lord by the Prophet gives an anſwer, that though in their Captivity they did lye as <hi>dead</hi> men, yet verſe 19. <hi>Thy dead men ſhall live, &amp;c. Awake and ſing ye that dwell in the duſt, for thy dew is as the dew of herbs, and the Earth ſhall caſt out her dead;</hi> Thy reſurrection from this Captivity and Death, ſhall be as the herbs that lye dead in Winter, but ſhall revive and <hi>ſpring forth</hi> again by the dews of the ſpring upon them, in the mean time, the Lord calls them to <hi>retire,</hi> and promiſeth to <hi>ſecure</hi> them; <hi>Come my people, enter thou in<g ref="char:EOLhyphen"/>to thy Chambers,</hi> &amp;c.</p>
+            <p>Where, 1. You have the tender and affectionate <hi>invitement</hi> and call of God, <hi>come my People,</hi> whatever the World ſpeaks of thee, and makes thee as an out-caſt, yet ſtill <hi>my People, pretious</hi> in my ſight, under my eye and care, though <hi>no man</hi>
+               <pb n="6" facs="tcp:37427:8"/>
+careth for thee; No matter if all the Nations of the World ſay, <hi>go you out-caſts,</hi> if the Lord ſay, <hi>come my people.</hi>
+            </p>
+            <p>2. <hi>Where,</hi> and to <hi>what</hi> he calls, <hi>enter in thy Chambers, retire</hi> thy ſelf as into thy <hi>ſtrong hold</hi> for ſafety; and <hi>ſhut thy door about thee,</hi> as when men <hi>retire</hi> into their houſes from a ſtorm, and ſhut their doors; fur<g ref="char:EOLhyphen"/>ther amplified, <hi>Hide thy ſelf,</hi> how long? but for <hi>a little moment,</hi> till <hi>the indignation be over paſt.</hi> Their cry<g ref="char:EOLhyphen"/>ing out in pangs, their powering out of prayer, engaged the Lord to <hi>full</hi> mercy. 1. To <hi>hide</hi> them under the <hi>indignation.</hi> 2. To <hi>haſten</hi> to their <hi>Salvation,</hi> and that ſpeedily, it ſhall be but for a <hi>moment. Then</hi> will the Lord <hi>come out of his place,</hi> and that to admiration and aſto<g ref="char:EOLhyphen"/>niſhment; <hi>for behold</hi> his appearance ſhall be <hi>wonderful</hi> and <hi>glorious,</hi> in the <hi>ſeaſon</hi> of it, and the <hi>manner</hi> of it; <hi>He will puniſh the Inhabitants of the
+<pb n="7" facs="tcp:37427:8"/>
+Earth,</hi> and the <hi>Earth ſhall diſcloſe her blood,</hi> the blood of his Servants, ſpilt as water upon the ground by the Babylonians,) <hi>and ſhall no wiſe cover her ſlain;</hi> Thus you have the words with their coherence opened.</p>
+            <p>The ſpecial thing I would take notice of (in order to the diſcove<g ref="char:EOLhyphen"/>ry of the mind and call of Chriſt to his Saints at this day) is the Lords <hi>calling</hi> of them into their <hi>Chambers,</hi> to ſhut their doors, to <hi>hide</hi> them<g ref="char:EOLhyphen"/>ſelves; which expreſſions denote this one thing in the general, name<g ref="char:EOLhyphen"/>ly, <hi>Retirement,</hi> which I ſhall give forth, in one obſervation, natural<g ref="char:EOLhyphen"/>ly and clearly decuced, as the ſcope of the Holy Ghoſt in them.</p>
+            <p>Ob. <hi>The Lord Jeſus Chriſt in his providential Diſpenſations ſometimes calls his People to Retirement.</hi>
+            </p>
+            <p>That I may more particularly diſcover what I mean by <hi>Retire<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>Jeſus Chriſt calls his people to
+<pb n="8" facs="tcp:37427:9"/>
+               <hi>retire. 1. Within himſelf.</hi> 1. As to all manner of <hi>Protection.</hi>
+            </p>
+            <p>2. As to more cloſe and intimate <hi>Communion.</hi>
+            </p>
+            <p>2. He calls them to <hi>Retirement,</hi> as to <hi>Publick</hi> ſervices, and adminiſtra<g ref="char:EOLhyphen"/>tions.</p>
+            <p>1. He calleth them to <hi>retire</hi> un<g ref="char:EOLhyphen"/>der his ſhade for <hi>Protection;</hi> ſo he was ſaid to <hi>ſpread his wings</hi> over his People, as an <hi>Eagle doth over her young ones,</hi> in the <hi>Wilderneſs</hi> of old, <hi>Deut.</hi> 32. And in the day of the Na<g ref="char:EOLhyphen"/>tions wrath, when in a <hi>confederacy</hi> a<g ref="char:EOLhyphen"/>gainſt his people, they are called his <hi>hidden ones, Pſal. 83. They con<g ref="char:EOLhyphen"/>ſult,</hi> but tis againſt thy <hi>hidden ones;</hi> and ſo that pretious word of grace, where the Lord holds out his arms to his poor ones in a ſtormy day, <hi>Eſay 4. 6. There ſhall be a Tabernacle for a ſhaddow in the day time from the heat, and for a place of refuge, and for a cover from ſtorm and from rain.</hi>
+            </p>
+            <p>So <hi>Ch.</hi> 25. 4. (And let them be
+<pb n="9" facs="tcp:37427:9"/>
+words of faith, to all Saints) <hi>for thou haſt been a ſtrength to the poor, a ſtrength to the needy in his diſtreſs, a refuge from the ſtorm, a ſhaddow from the heat, when the blaſt of the terrible one is againſt the wall, ch.</hi> 32. 2. A man (the man Chriſt Jeſus) ſhall be as a <hi>hiding place from the wind,</hi> and a <hi>Cavert from the tempeſt.</hi>
+            </p>
+            <p>And thus the Saints in <hi>ſtormy times</hi> beſpeak the Lord, and have fled into him as their <hi>refuge</hi> and <hi>hi<g ref="char:EOLhyphen"/>ding place;</hi> So <hi>David</hi> often, <hi>keep me as the apple of thine eye, hide me under the ſhadow of the wings,</hi> Pſal. 17. 8. <hi>Thou ſhall hide them in the ſecret of thy preſence from the pride of man, thou ſhall keep them ſecretly in a pavil<g ref="char:EOLhyphen"/>lion,</hi> Pſal. 31. 8. <hi>In the time of trou<g ref="char:EOLhyphen"/>ble he ſhall hide me in his Pavillion, in the ſecret of his Tabernacle ſhall he hide me, he ſhall ſet me upon a Rock,</hi> Pſal. 27. <hi>In the ſhaddow of thy wings will I make my refuge, untill theſe Calamities be overpast,</hi> Pſal. 57. 1. Of which
+<pb n="10" facs="tcp:37427:10"/>
+               <hi>David</hi> in all his <hi>perſecutions</hi> and <hi>wan<g ref="char:EOLhyphen"/>drings,</hi> had abundant and ſweet ex<g ref="char:EOLhyphen"/>perience in the <hi>review</hi> and <hi>recollecti<g ref="char:EOLhyphen"/>on</hi> of which he breaks forth into the praiſes of the Lord, his heart being warmed with the ſenſe of the Lords goodneſs and love, <hi>Pſal. 18. I will love thee,</hi> (or I will dearly love thee) <hi>Oh Lord my strength,</hi> the Lord <hi>my Rock,</hi> my <hi>Forireſs,</hi> and <hi>my Deliverer, my God, my Strength in whom ſhall I truſt, my Buckler, and the hope of my Salvation, and my High-Tower.</hi>
+            </p>
+            <p>Upon which <hi>experience</hi> he gives forth, everlaſting words of grace for all the People of God to truſt upon in all Generations, as <hi>Pſal. 9. 9. The Lord alſo will be a refuge for the oppreſſed, a refuge in time of trou<g ref="char:EOLhyphen"/>ble,</hi> Pſal. 91. 1, 2. <hi>He that dwelleth in the ſecret places of the Moſt High, ſhall abide under the ſhaddow of the Almighty,</hi> with many more <hi>words to the ſame purpoſe,</hi> The Lord at that
+<pb n="11" facs="tcp:37427:10"/>
+day of indignation from the houſe of <hi>Saul</hi> and all the mighty men of Iſrael, againſt <hi>David</hi> and ſuch as did adhere to him, calling <hi>David</hi> to re<g ref="char:EOLhyphen"/>tire as into his chambers, from the ſtorm that was againſt him, till the indignation was overpaſt, and the Lord <hi>hid</hi> him from the wrath of man, as hath been ſhewed.</p>
+            <p>Of the ſame import is that word, <hi>Prov. 11. 10. The Name of the Lord is a ſtrong Tower, and the righteous run<g ref="char:EOLhyphen"/>neth into it and are ſafe.</hi> There are three <hi>Names</hi> of God to which his people in a day of indignation fly unto.</p>
+            <p>The name of his <hi>Goodneſs;</hi> that <hi>Name</hi> which the Lord made known and proclaimed to <hi>Moſes,</hi> after the People of God had ſinned, and <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> had cryed to him for the for<g ref="char:EOLhyphen"/>giveneſſe of their ſin, and begs his <hi>preſence</hi> may go with them; <hi>I will make</hi> (ſaith the Lord) <hi>all my good<g ref="char:EOLhyphen"/>neſs to paſs before thee,</hi> Exod. 33. 19.
+<pb n="12" facs="tcp:37427:11"/>
+and chap. 34. 6. <hi>The Lord paſſed by before him, and proclaimed. The Lord God Merciful and Gracious, long ſuf<g ref="char:EOLhyphen"/>fering, abundant in goodneſs, in truth,</hi> &amp;c. So when <hi>David pleads</hi> with God in his diſtreſſe, <hi>Pſal.</hi> 89. the argument of Faith is, v. 5. <hi>For thou Lord art good,</hi> and therefore <hi>ready to forgive,</hi> &amp;c. and when he flyes un<g ref="char:EOLhyphen"/>to God, <hi>Pſal.</hi> 31. he makes this as the wing of God, the Name of his <hi>goodneſs,</hi> verſ. 19. <hi>Oh how great is thy Goodneſs thou haſt laid up for them that fear thee, which thou haſt wrought for them that truſt in thee before the ſons of men, thou ſhalt hide them,</hi> &amp;c. And <hi>Pſal. 144. My Goodneſs, my For<g ref="char:EOLhyphen"/>treſs,</hi> and <hi>my high Tower,</hi> &amp;c. not onely my <hi>good</hi> good, but <hi>goodneſs</hi> it ſelf, &amp;c. Yea this <hi>Name of God</hi> that he proclaimed to <hi>Moſes,</hi> was as the great <hi>refuge</hi> of the Saints in the day of their diſtreſſe, and which they <hi>urged</hi> upon him, as <hi>Pſal.</hi> 86. and 103. and 145. and <hi>Neh.</hi> 9. 17. 31<g ref="char:punc">▪</g> becauſe
+<pb n="13" facs="tcp:37427:11"/>
+in all Generations hee would be known to his people by this Name, and by Faith they were to live up<g ref="char:EOLhyphen"/>on it, in all their difficulties; <hi>The Lord abundant in goodneſs,</hi> and <hi>mer<g ref="char:EOLhyphen"/>cy,</hi> and <hi>truth,</hi> &amp;c. And when <hi>Judah</hi> was going into captivity, the Lord offers himſelf to them by this Name if they would turn unto him, and commands <hi>Jeremiah</hi> to proclaim it, as it was proclaimed it, as it was proclaimed before <hi>Moſes, Jer. 3. 12. Go and proclaim theſe words towards the North, and ſay, Re<g ref="char:EOLhyphen"/>turn thou back-ſliding</hi> Iſrael, <hi>ſaith the Lord, and I will not cauſe my anger to come upon you,</hi> (or to <hi>ſettle</hi> upon you,) <hi>for I am merciful,</hi> &amp;c. A heart-breaking word, if that people had hearkened to it.</p>
+            <p>To this <hi>Name</hi> of the Lord do his people <hi>retire</hi> for ſhelter and re<g ref="char:EOLhyphen"/>fuge in an evil day, though they have ſinned againſt him; we have ſinned, yet the Lord is infinitely <hi>good,</hi> and therefore <hi>ready to for<g ref="char:EOLhyphen"/>give,
+<pb n="14" facs="tcp:37427:12"/>
+Who is like unto him, a God pardoning iniquity, Micah</hi> 7. And therefore where ever the Lord gives out promiſes of help and de<g ref="char:EOLhyphen"/>liverance to his People from cap<g ref="char:EOLhyphen"/>tivity and deſtreſſe, hee alſo annex<g ref="char:EOLhyphen"/>eth free promiſes of grace, in a<g ref="char:EOLhyphen"/>bundant forgiveneſſe, <hi>Eſay</hi> 43. 16, 17. ſpeaking of the glorious Sal<g ref="char:EOLhyphen"/>vation of his people; though they had <hi>wearied them with their iniqui<g ref="char:EOLhyphen"/>ties,</hi> verſe 24. <hi>yet I even I am he that blotteth out thy tranſgreſſions for mine own ſake, and will not re<g ref="char:EOLhyphen"/>member thy ſins,</hi> ſee chapter 24. 22. ſee <hi>Jeremiah</hi> 33. 5, 6, 7. <hi>Behold I will bring it health and cure, and I will cure them,</hi> (though a wound<g ref="char:EOLhyphen"/>ed, broken, ſcattered people) and will reveal unto them <hi>the abundance of peace and truth,</hi> and verſe 8. <hi>I will cleanſe them from all the ini<g ref="char:EOLhyphen"/>quity whereby they have ſinned a<g ref="char:EOLhyphen"/>gainſt me, and I will pardon all their iniquity, whereby they have ſinned
+<pb n="15" facs="tcp:37427:12"/>
+againſt me, and whereby they have tranſgreſsed againſt me;</hi> though <hi>A<g ref="char:EOLhyphen"/>gainſt me,</hi> (thrice repeated) <hi>againſt</hi> all my kindneſſe to them, and my often <hi>Salvation</hi> of them, yet I will cleanſe them, and though they are become a <hi>reproach</hi> to all Nations, yet it ſhall be to me <hi>a Name of joy,</hi> a <hi>praiſe</hi> and <hi>honour, before all the Nations of the Earth;</hi> See <hi>Jeremiah 51. 5. for Iſrael hath not been for<g ref="char:EOLhyphen"/>ſaken, nor</hi> Judah <hi>of his God, of the Lord of hoſts, though their land was filled with ſin againſt the holy One of Iſrael.</hi> Under theſe wings of grace thus ſpread forth in pretious pro<g ref="char:EOLhyphen"/>miſes, do a poor, ſinfull, broken people ſhelter themſelves, in <hi>hum<g ref="char:EOLhyphen"/>bling</hi> and <hi>turning</hi> to the Lord, and they are <hi>ſafe,</hi> this being the great Covenant Name of God they fly to, and take hold of in all their ſins and diſtreſſes.</p>
+            <p>Secondly, the People of God <hi>re<g ref="char:EOLhyphen"/>tire</hi> into the Name of his <hi>Almighti<g ref="char:EOLhyphen"/>ness,
+<pb n="16" facs="tcp:37427:13"/>
+Pſal. 91. 1. He that dwelleth in the ſecret place of the moſt High, ſhall abide,</hi> (or lodg as in a houſe of defence) <hi>under the ſhadow of the Almighty,</hi> &amp;c. As a God infinite<g ref="char:EOLhyphen"/>ly <hi>able</hi> to preſerve and keep ſafe all the concernments of <hi>ſoul</hi> and <hi>life,</hi> that his people commit to him, a<g ref="char:EOLhyphen"/>ble to ſave <hi>in,</hi> and <hi>out</hi> of all diſtreſ<g ref="char:EOLhyphen"/>ſes, from every ſnare of the De<g ref="char:EOLhyphen"/>vil, from the wrath of man, as <hi>Paul, 2 Timothy</hi> 1. 12. For <hi>I know when I have believed, and am per<g ref="char:EOLhyphen"/>ſwaded that he is Able to keep what I have committed to him,</hi> &amp;c.</p>
+            <p>Thirdly, The <hi>Name</hi> of the Lords <hi>Everlaſtingneſs, ſameneſs, unchange<g ref="char:EOLhyphen"/>ableneſs,</hi> is a Refuge to <hi>retire</hi> to; Abraham <hi>called on the Name of the Lord,</hi> the <hi>Everlaſting God, Geneſis</hi> the 21. the laſt verſe. So the Lord comforteth his people, <hi>Eſay 40. 28. Haſt thou not known, haſt thou not heard, that the Everlaſting God, the Lord, the Creator of the Ends of the
+<pb n="17" facs="tcp:37427:13"/>
+Earth, fainteth not, neither is weary,</hi> &amp;c. So the People of God in their Plea, <hi>Eſay 63. 16. Thy name is from Everlaſting,</hi> &amp;c. And <hi>Pſal.</hi> 102. Where is ſet forth a day of ſore indignation and diſtreſſe, as verſe 10. <hi>Thou haſt lifted us up, and caſt us down,</hi> &amp;c. What is their ſtay and Refuge in ſuch a caſe, why this, verſe 12. <hi>But thou, oh Jeho<g ref="char:EOLhyphen"/>vah ſhalt endure for ever.</hi> And ver. 27. <hi>But thou art the ſame,</hi> &amp;c. And though wee periſh, thou art the <hi>ſame;</hi> Thou art the <hi>ſame</hi> in thy Covenant, mercy is from everla<g ref="char:EOLhyphen"/>ſting and <hi>to</hi> everlaſting, &amp;c. The <hi>ſame</hi> in <hi>goodneſs, pity,</hi> and <hi>wiſdom,</hi> and <hi>power,</hi> the <hi>faithful</hi> God, that <hi>keepeſt</hi> Covenant and Mercy for e<g ref="char:EOLhyphen"/>ver, as <hi>good</hi> to ſave as ever thou waſt, and as <hi>able</hi> to ſave; ſo hee ſtrengthens and comforts his Peo<g ref="char:EOLhyphen"/>ple with the diſcovery of his <hi>Name, Mallachi 3. 6. For I am the Lord, I change not, therefore ye ſons of Ja<g ref="char:EOLhyphen"/>cob
+<pb n="18" facs="tcp:37427:14"/>
+are not conſumed.</hi> Let the ſtate of the people of God be what it will, there is ſupport in this, <hi>Thou Lord art ſtill the ſame;</hi> we have known what thou haſt been to thy people in dayes of old, and what thou haſt done for them; Oh, where are thy <hi>former loving kindneſſes,</hi> &amp;c. The Covenant of God with his peo<g ref="char:EOLhyphen"/>ple is built as upon two Pillars, <hi>Mercy</hi> and <hi>Faithfulneſs, Pſal.</hi> 89. 2. For I have ſaid, <hi>Mercy ſhall be built up for ever, thy faithfulneſs ſhalt thou eſtabliſh in the very Heavens; I have made a Covenant with my choſen,</hi> &amp;c. Under theſe two doth <hi>David</hi> ſhel<g ref="char:EOLhyphen"/>ter, as the Wings of the Cherubims, 57. 1, 2. God ſhall ſend forth his <hi>Mercy</hi> and <hi>Truth,</hi> and ſhall ſave me, <hi>Mercy</hi> to pitty and forgive, <hi>Faith<g ref="char:EOLhyphen"/>fulneſs</hi> to fulfil his Word, here is a ſafe ſhelter for Saints; in every ſtrait <hi>David,</hi> and other of the peo<g ref="char:EOLhyphen"/>ple of God, get under theſe Wings of God, and are at peace; <hi>David</hi>
+               <pb n="19" facs="tcp:37427:14"/>
+near twenty times in the Pſalms is putting theſe two together, thy Mercy and thy Truth ſhall prevent me, and in them I truſt; If all the Mercy of God, and all the Truth and Faithfulneſs of God be my portion, what need I fear? here is ſweet and ſafe retirement for Saints in an evil day.</p>
+            <p>But how do poor Souls <hi>retire</hi> in<g ref="char:EOLhyphen"/>to this Bleſſed Name of God, a Merciful, Almighty, Unchangea<g ref="char:EOLhyphen"/>ble God, as a <hi>Rock</hi> for them.</p>
+            <p>1. By ſeeing thorough the Light of the Spirit, the Emptineſs and Va<g ref="char:EOLhyphen"/>nity of all other refuges, that no<g ref="char:EOLhyphen"/>thing below an unchangeable God of all Grace, through Jeſus Chriſt, can be a refuge for a Naked and Forlorne Soul, in <hi>Pſalm 62. David</hi> mentions two things, which the heart is apt to make a <hi>reguge, Men</hi> and <hi>Riches, verſ.</hi> 9, 10. of <hi>both</hi> theſe he ſaith, they are a <hi>lie,</hi> and <hi>vanity;</hi>
+               <pb n="20" facs="tcp:37427:15"/>
+And, <hi>if riches increaſe, ſet not your heart upon them;</hi> do not think them a meet refuge for you in any day, ſpecially a day of diſtreſs; if nei<g ref="char:EOLhyphen"/>ther the <hi>ſons of men</hi> nor <hi>riches</hi> be a ſhelter, then, <hi>in God,</hi> ſaith <hi>David, is my Salvation and my Glory, the rock of my ſtrength and my refuge is in God;</hi> Yea, He <hi>onely</hi> is my Rock, v. 6. ſeel <hi>Pſal. 142. 4, 5. I looked,</hi> &amp;c. v. 4. And what did he ſee? Why, <hi>Refuge failed him,</hi> every refuge was too low, too ſhort, too weak, to ſhelter him, here was conviction of nothing but emptyneſs in them, <hi>vanity</hi> upon them all; What then? why, <hi>verſ. 5. I ſaid, Thou art my refuge,</hi> and my <hi>portion,</hi> there is that in Jeſus Chriſt to <hi>enſafe</hi> me and <hi>ſa<g ref="char:EOLhyphen"/>tisfie me</hi> (the two great ends to which the ſoul moves in all its de<g ref="char:EOLhyphen"/>ſires) now I have them not in Crea<g ref="char:EOLhyphen"/>tures, they can't be a refuge, not a portion, but God in Chriſt is
+<pb n="21" facs="tcp:37427:15"/>
+               <hi>both,</hi> is <hi>All,</hi> This is a <hi>conviction</hi> we ſhould paſs under every day.</p>
+            <p>2. We <hi>retire</hi> into this Bleſſed Name of the Lord, <hi>by Faith, He is a Rock,</hi> Pſalm. 62. <hi>the Rock of A<g ref="char:EOLhyphen"/>ges,</hi> or the Everlaſting Rock, no<g ref="char:EOLhyphen"/>thing below himſelf is ſo; Faith ſees him ſo, as a ſinking man in the Waters ſees a Rock, and makes to it, and ſees him <hi>onely,</hi> he <hi>onely</hi> is my Rock; Now heres the enſafeing Act of Faith, it can lay up all con<g ref="char:EOLhyphen"/>cernments of Soul and Life, with an unchangeable God; here I ad<g ref="char:EOLhyphen"/>here, faſten, cleave; Oh, O that Bleſſed Glorious Name, a Gracious, Almighty or All-ſufflcient, and Unchangeable Saviour, in the day of my trouble. <hi>Oh</hi> ſet me on this Rock, that <hi>is higher then I, Pſal.</hi> 61. 2. Then let Waves and Bil<g ref="char:EOLhyphen"/>lows beat againſt me, they may break themſelves, but ſhall never break the Rock; <hi>I ſhall not be mo<g ref="char:EOLhyphen"/>ved,
+<pb n="22" facs="tcp:37427:16"/>
+Pſal.</hi> 62. Thats the ſtability faith gives the <hi>Soul,</hi> let Sins, Temp<g ref="char:EOLhyphen"/>tations, Troubles, beat againſt me, I ſhall not be moved; thus Faith can triumph <hi>at all times.</hi> Truſt in him <hi>at all times,</hi> God is a refuge for us; In ſhaking times, in dy<g ref="char:EOLhyphen"/>ing times, all is ſafe with him, yea when the Heart is <hi>overwhelmed</hi> and <hi>deſolate,</hi> Faith thus relieves and fetcheth up the Heart in all its ſink<g ref="char:EOLhyphen"/>ings; let the Soul ſee a ſtorm com<g ref="char:EOLhyphen"/>ing, away it haſtens into its Re<g ref="char:EOLhyphen"/>fuge, into the Chambers of ſtrength, and ſhuts its door, till it be <hi>over<g ref="char:EOLhyphen"/>paſt.</hi>
+            </p>
+            <p>Becauſe this is the Work of Saints, and the call of the Lord to them at this day; Conſider it a lit<g ref="char:EOLhyphen"/>tle further.</p>
+            <p>Firſt, Jeſus Chriſt preſents him<g ref="char:EOLhyphen"/>ſelf to a poor ſoul as an <hi>open refuge,</hi>
+               <pb n="23" facs="tcp:37427:16"/>
+let the ſin, burden, diſtreſs, in<g ref="char:EOLhyphen"/>ward or outward be what it will, this door of Grace ſtands open, the ſinners of the World paſs by it, and will not enter (the more their mi<g ref="char:EOLhyphen"/>ſery) but poor ſouls that are bea<g ref="char:EOLhyphen"/>ten out of one hold, after another and ſee at laſt this door of hope o<g ref="char:EOLhyphen"/>pened, in the valley of Darkneſs and Fears runs into it; unbelief would draw the Soul back, <hi>Satan</hi> would ſhut the Door againſt it, but the ſoul ventures (and venture it muſt or ſink and periſh) and gets in<g ref="char:EOLhyphen"/>to Chriſt, and he holds out a hand, and bears it up, opens Blood, and Righteouſneſs, and Grace, and bids the ſoul make uſe of it; and here the Soul <hi>retires</hi> every day, under this ſhelter tis driven, and it can be quiet and ſafe no where elſe, if the heart be ſtealing out elſe where, to other ſhelters in the World, or of its own, Satans World and Conſci<g ref="char:EOLhyphen"/>ence
+<pb n="24" facs="tcp:37427:17"/>
+ſet upon it; And the Soul flies back, and gets into its ſtrong hold again; No living ſafely elſe where; Now Jeſus Chriſt is an <hi>open</hi> refuge, in every precious word of free Grace, <hi>Eſay 55. 1. Rev.</hi> 21. 6. 22. 17. &amp;c. which words Believers ſee as a bleſſed ſafe Retirement, when they are ſtormd out of every thing elſe, and evidences are bemiſt<g ref="char:EOLhyphen"/>ed.</p>
+            <p>Secondly, Jeſus Chriſt preſents himſelf a <hi>ſure refuge</hi> for Souls to Retire into; He ſprinkles blood, caſts a Mantle of Righteouſneſſe, a Mantle of Love, and Grace, and Power, over the ſoul that gets into him, and who then can harm it? Guilt, and Sorrows, and Tempta<g ref="char:EOLhyphen"/>tions, and Preſſures, can follow the ſoul to the Door, but cannot enter with it; <hi>He is near that juſti<g ref="char:EOLhyphen"/>fieth, who then ſhall contend?</hi> Eſay
+<pb n="25" facs="tcp:37427:17"/>
+50. 8. there is ſafety. Tis true, the ſoul is not alwayes <hi>apprehen<g ref="char:EOLhyphen"/>ſive</hi> of its own <hi>ſafety,</hi> but hath its fits of Fears and Miſ-givings, through Temptation and Unbe<g ref="char:EOLhyphen"/>lief, as in <hi>Davids</hi> Caſe (and mark it) <hi>Pſal. 31. 22. For I ſaid in my haſt, I am cut off from before thine eyes,</hi> nevertheleſſe <hi>thou heardeſt the voice of my Supplication when I cryed unto thee,</hi> here was ſad Ap<g ref="char:EOLhyphen"/>prehenſion,—<hi>I am cut off,</hi> (though he had words of Promiſe to the contrary) but yet he cry<g ref="char:EOLhyphen"/>ed to the Lord in that <hi>diſtemper,</hi> but what, did the Lord caſt him off, becauſe of that mixture of unbelief? No, <hi>nevertheleſſe</hi> he heard and ſaved him; a Caſe of great relief for Dark, Doubting Souls. So that Jeſus Chriſt is a <hi>ſafe, ſure, ſtrong, impregnable</hi> ſhelter, all the World can't get a ſoul out of it, all is ſafe there.</p>
+            <pb n="26" facs="tcp:37427:18"/>
+            <p>Obj. <hi>But may not my life go for it, for all this?</hi>
+            </p>
+            <p>
+               <hi>Anſwer,</hi> That which is in<g ref="char:EOLhyphen"/>deed thy life, the life of thy ſoul, the immortal life, <hi>that</hi> is moſt ſafe <hi>hid (or laid) with Chriſt in God,</hi> Col. 3. 3. <hi>Becauſe I live, you ſhall live alſo,</hi> John 14. your life is as ſafe as my life, tis bound up with my own, yea tis the ſame with my own, the life I live, I live in you. As Chriſt lives in the Father, ſo Believers live in him, and have their life fed in him, and from him, and there<g ref="char:EOLhyphen"/>fore they ſhall <hi>never die,</hi> but have Eternal Life; What more? Then to live for ever, and ſo to live for ever, as Chriſt himſelf lives, ſurely thats a Bleſſed, Safe, and Glorious Life; This is your Life.</p>
+            <p>
+               <pb n="27" facs="tcp:37427:18"/>But ſecondly, If Jeſus Chriſt will <hi>uſe</hi> thy natural life in all the concernments of it, who ſhall reach thy life? Not the World, not all the Perſecutions of it, no nor thy <hi>liberty</hi> neither; Jeſus Chriſt hath charged himſelf with both, and all the intereſts of thy life, he will order thy race, and every ſtep thereof, to that end in which he will moſt be glorifi<g ref="char:EOLhyphen"/>ed in thee, and thereſore be put<g ref="char:EOLhyphen"/>ting it by faith into his hand eve<g ref="char:EOLhyphen"/>ry day; and ſay as Jeſus Chriſt himſelf did, in the intereſt of his life, <hi>Father Glorifie thy Name; John</hi> 12. 29. This was when our Dear Saviour (as a man) was ſo<g ref="char:EOLhyphen"/>licitous about <hi>his</hi> life, and <hi>his ſoul was troubled,</hi> and cries, <hi>ſave me from this hour,</hi> verſ. 27. but yet bows to the Will of his <hi>Fa<g ref="char:EOLhyphen"/>ther, Glorifie thy Name.</hi>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:37427:19"/>No man ſhall touch thy life, till thou ſhalt ſay, <hi>I have finiſhed the Work that my Father gave me to do, John</hi> 17. 4. So that Jeſus Chriſt hath charged himſelf with the care of thy life, liberty and all the intereſts thereof, as well as with the pretious life of thy Soul.</p>
+            <p>Thirdly, the looſing thy life, is the <hi>ſaving</hi> and <hi>finding</hi> of it, as to life Eternal; the death of thy natural life, makes way for the <hi>True, Spiritual, Immortal, Glori<g ref="char:EOLhyphen"/>ous</hi> life, The cutting off this mo<g ref="char:EOLhyphen"/>mentary life, iſſues in a higher and more excellent life, ſo that there can be no miſs of it, faith ſees, a life in death, and that by it Mortality is ſwallowed up of life; Thus Jeſus Chriſt is a ſhelter to thy life.</p>
+            <p>And ſo I have opened how
+<pb n="29" facs="tcp:37427:19"/>
+               <hi>Jeſus Chriſt</hi> calls his Saints to re<g ref="char:EOLhyphen"/>tire into himſelf, by way of <hi>ſafe<g ref="char:EOLhyphen"/>ty</hi> and <hi>protection.</hi>
+            </p>
+            <p>Secondly, <hi>Christ</hi> calls his own to <hi>retire</hi> into a more <hi>intimate com<g ref="char:EOLhyphen"/>munion</hi> with him, in a time of in<g ref="char:EOLhyphen"/>dignation, when ſtorms are up.</p>
+            <p>
+               <hi>The ſecond Thing.</hi>
+            </p>
+            <p>2. This call of <hi>Jeſus Chriſt</hi> into a more <hi>intimate Communion</hi> with him, ſhould bleſſed ſouls attend to in ſuch a day; into the <hi>Chambers</hi> of his Preſence; ſo <hi>Song of Solomon, chap. 1. 9. Draw me, we will run after thee, the King hath brought me into his Chambers, we will be glad and rejoyce in thee, we will remember thy love, more then Wine, the upright love thee;</hi> there is ſweet and intimate com<g ref="char:EOLhyphen"/>munion.</p>
+            <pb n="30" facs="tcp:37427:20"/>
+            <p>Now how doth the Lord bring a ſoul to this?</p>
+            <p>Anſwer, <hi>Jeſus Chriſt</hi> ſhews himſelf to the ſoul, in a greater Beauty and Glory, then a ſoul had ſeen him before, and thereby Humbles, Empties, and Awakens, brings it lower, and to be viler in its own eyes, takes down all the high thoughts and conceits of it ſelf, makes the Soul know its own poverty, whereby it becomes leſs then the leaſt of all Saints, ren<g ref="char:EOLhyphen"/>ders pride, and paſſion, and ſelf<g ref="char:EOLhyphen"/>iſhneſs, and temerity, and cenſo<g ref="char:EOLhyphen"/>riouſneſs, and hypocreſie, with all fleſhly corruptions, more abo<g ref="char:EOLhyphen"/>minable and loathſome, and the ſoul abhors it ſelf in the duſt (too good for it) &amp; is burthened, and groans under the preſſuresmenti<g ref="char:EOLhyphen"/>oned, cryes &amp; mourns after, a fur<g ref="char:EOLhyphen"/>ther
+<pb n="31" facs="tcp:37427:20"/>
+               <hi>cleanſing, healing,</hi> and a more pretious <hi>conformity</hi> to <hi>Jeſus Chriſt,</hi> cries out for the Spirit, for Holi<g ref="char:EOLhyphen"/>neſs, for Light and Strength, and cannot live without them; this is the way to more intimate com<g ref="char:EOLhyphen"/>munion, here is a <hi>Viſion</hi> of the Lord Jeſus, in his Holineſſe, Beau<g ref="char:EOLhyphen"/>ty, and Glory, that renders the Soul thus infinitely vile in it ſelf, and draws out ſuch a panting af<g ref="char:EOLhyphen"/>ter him; Then it hath further Attractives of love,—<hi>We will remember thy love more then Wine;</hi> Then, how Free, how Pretious, how Eternal, how Glorious is the Lords love to a worthleſs wretch, whoſe ſin is worſe then the ſin of Devils (for they never ſin againſt this love) Oh that the Lord ſhould not onely in pitty ſave me, but in love die for me; who can reach or underſtand it?</p>
+            <p>
+               <pb n="32" facs="tcp:37427:21"/>Thus is Glory and Love let in upon the ſoul; And then <hi>the up<g ref="char:EOLhyphen"/>right love thee;</hi> Oh that I might love the Lord uprightly; love him, and love him uprighty, love him for himſelf, love his Glori<g ref="char:EOLhyphen"/>ous Perſon, be enamoured with the Beauties of his Holineſſe, that I might ſee his Glory, and for e<g ref="char:EOLhyphen"/>ver admire and adore him; thus ſouls, when he pleaſeth thus to <hi>ſhew</hi> himſelf, <hi>are taken into his Banqueting Houſe, and his Banner over them is love;</hi> they <hi>retire</hi> into him, and <hi>ſit under his ſhadow with great delight,</hi> and his <hi>Fruit is ſweet to their taſt,</hi> Song of Solomon, 2. 3, 4. This is pretious and Hea<g ref="char:EOLhyphen"/>venly employment, in ſuch a day when the <hi>Lamb</hi> calls to Retire<g ref="char:EOLhyphen"/>ment, when the heat of the Sun begins throughly to beat againſt it, and the ſoul finds little ſhadow in the World, then the <hi>ſhadow</hi>
+               <pb n="33" facs="tcp:37427:21"/>
+of this <hi>Rock in a weary land</hi> (a land of ſin and trouble) is ſweet and pleſant retirement indeed.</p>
+            <p>The effect of this ſpecial Re<g ref="char:EOLhyphen"/>tirement into the <hi>Chambers</hi> of our Lord Jeſus, under his <hi>ſhadow,</hi> is ſweet peace, and reſt of mind and ſpirit, when the Waves and Billows come againſt us, a bleſſed <hi>ſtilneſſe,</hi> a compoſed acquieſcen<g ref="char:EOLhyphen"/>cy in the Lord, and a freee reſign<g ref="char:EOLhyphen"/>ment to him, the allaying and rebuking the tumultuous work<g ref="char:EOLhyphen"/>ings of our hearts, a caſting our care upon the love, and care, and faithfulneſſe of the Lord in every condition; <hi>In the Multitude of my thoughts</hi> (my careful thoughts) within me, <hi>thy comforts delight my ſoul, Pſal.</hi> 94. 19. yea in this bleſſed Retirement, cryes out, <hi>Return into thy Reſt, oh my ſoul;</hi> Thou haſt been wandering after other reſt, too too much, but
+<pb n="34" facs="tcp:37427:22"/>
+haſt not found where to put thy feet, therefore now return to thy ſweet, ſafe, proper Reſt; abide and dwell there, and that for e<g ref="char:EOLhyphen"/>ver. So the ſoul can in ſome good meaſure, ſanctifie the Name of the Lord, by believing and truſt<g ref="char:EOLhyphen"/>ing on him, and waiting for him, making Chriſt his Portion and E<g ref="char:EOLhyphen"/>verlaſting ſtrength, and doth in patience <hi>poſſeſs</hi> it ſelf.</p>
+            <p>
+               <hi>One word by way of more particular Application.</hi>
+            </p>
+            <p>1. If this Retirement into Je<g ref="char:EOLhyphen"/>ſus Chriſt, into the chambers of his Grace, be the great intereſt of ſouls; What a caſe then are poor forlorne ſinners in that have no ſhelter for ſoul or life, or any thing, but what the wide World (as you ſpeak) can afford them, which will not keep off a ſtorm,
+<pb n="35" facs="tcp:37427:22"/>
+not one drop of the Wrath of the Almighty? Verily the Wrath of the jealous God is ready to come forth into the Nations of the earth [after a little ſtilneſs that hath been upon them] who is coming [and ſaints do hear the ſounding of his feet] to <hi>tread</hi> up<g ref="char:EOLhyphen"/>on them in his wrath, and <hi>tram<g ref="char:EOLhyphen"/>ple</hi> them in his fury, <hi>Eſay</hi> 63. and then where will all your ſhelters be? When it ſhall be ſaid to the ſcoffers at the report of his day, <hi>Behold you deſpiſers,</hi> and <hi>wonder</hi> and <hi>periſh,</hi> for the Anger of the Lord ſhall ſmoak againſt you; Oh awake and tremble, believe and tremble, and ſee your confiden<g ref="char:EOLhyphen"/>cies to be lying vanities, men and riches, and ſtrength, are a lye, and they ſhall not, cannot ſave you in the day of the Lords in<g ref="char:EOLhyphen"/>dignation; Oh be convinced of it, ſee the Lord Jeſus, in his
+<pb n="36" facs="tcp:37427:23"/>
+blood, righteouſneſſe, free pro<g ref="char:EOLhyphen"/>miſes of Grace, an open ſhelter, where you may fly and be ſafe; Oh get thy polluted, guilty, be<g ref="char:EOLhyphen"/>trayed ſoul, into thy ſhelter, make haſt to get thy ſoul waſhed, ju<g ref="char:EOLhyphen"/>ſtified, ſanctified, renewed in the Blood and Spirit of the <hi>Lord Je<g ref="char:EOLhyphen"/>ſus,</hi> get the Mantle of his Righ<g ref="char:EOLhyphen"/>teouſneſſe over thee, and his ſpi<g ref="char:EOLhyphen"/>rit to quicken thee, or thou ſhalt periſh from the way without re<g ref="char:EOLhyphen"/>medy.</p>
+            <p>2. Doth <hi>Jeſus Christ</hi> call his Saints into his <hi>Chambers,</hi> to <hi>retire</hi> with him, and that for <hi>protection</hi> and more intimate Communion. Oh let this be the <hi>Word of the Lord</hi> to all the <hi>Lambs followers;</hi> Now <hi>Jeſus Chriſt</hi> hath for a Moment withdrawn, is gon behind the Clouds, cry, <hi>draw us, and we will run after thee.</hi>
+            </p>
+            <p>
+               <pb n="37" facs="tcp:37427:23"/>Now know and ſee more Expe<g ref="char:EOLhyphen"/>rimentally, that <hi>Name</hi> that is in<g ref="char:EOLhyphen"/>deed a <hi>ſtrong Tower,</hi> that cove<g ref="char:EOLhyphen"/>nanting Name that hath been ſet before you, <hi>The Lord gracious and abundant in goodneſſe;</hi> let thy ſoul ſay, This is my Rock, a <hi>Gracious, Almighty, Immutable</hi> God in Chriſt God the <hi>ſame</hi> yeſterday, and to day, for ever, unchangeable in Grace, Goodneſs, Wiſdom, Pow<g ref="char:EOLhyphen"/>er, Love, and that becauſe of a <hi>Covenant</hi> built upon the Pillars of <hi>Mercy</hi> and <hi>faithfulneſſe</hi> that are <hi>for ever;</hi> This is my <hi>Houſe of De<g ref="char:EOLhyphen"/>fence,</hi> here will I <hi>dwell;</hi> This is my <hi>Rock,</hi> and I ſhall not be mo<g ref="char:EOLhyphen"/>ved; Here is your life, your ſtrength, your ſafety, your all.</p>
+            <p>Oh ſee what an <hi>open</hi> and <hi>ſure</hi> Refuge Jeſus Chriſt is, your ſins and guilt cannot enter in with you, but you leave them at the door, ſay, Ah Lord, ſpread the
+<pb n="36" facs="tcp:37427:24"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="37" facs="tcp:37427:24"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:37427:25"/>
+Mantle of thy Righteouſneſſe o<g ref="char:EOLhyphen"/>ver me, let thy banner over me be love, and what ever the ſtorm be, I ſhall be ſafe; in the heat of the day, under the ſhadow of this Rock, will I ſit; put me under unchangeable love and grace, and Lord I ſhall be ſafe; ſay of him, Thou <hi>onely</hi> ſhalt bee my <hi>portion</hi> and my <hi>refuge,</hi> into thy Chambers, Oh Lord, I enter (draw me into them) under thy wings will I make my Refuge, till the <hi>Indignation</hi> be over paſt.</p>
+            <p>Oh accept me, heal me, hold me to thy ſelf, keep me, hide me in thy Chambers of Grace, watch over me night and day. Yea, Lord, lead me into a near<g ref="char:EOLhyphen"/>er Communion with thee, ſhew me thy Holineſſe and thy Glory, that I may be yet more vile in my own ſight before thee; Ah humble me, empty me of all,
+<pb n="39" facs="tcp:37427:25"/>
+new ſeaſon me, new frame me, with ſeven times more holineſſe then before; Conform me to thy ſelf to purpoſe, and for e<g ref="char:EOLhyphen"/>ver <hi>Commune</hi> with me, Reckon me, my dear Lord, as thy <hi>Friend</hi> and <hi>Companion,</hi> as thy ſweet ac<g ref="char:EOLhyphen"/>quaintance; Oh take my heart, fill me with love, and let us ne<g ref="char:EOLhyphen"/>ver, never part any more; Oh thus ſhould be the breathings and pangs of our ſouls after our Lord Jeſus in ſuch a day. This is to enter into his Chambers, in<g ref="char:EOLhyphen"/>to his Reſt.</p>
+            <p>Thirdly, As to outward ſafe<g ref="char:EOLhyphen"/>ty, Enter into <hi>his</hi> Chambers, ſay with <hi>David,</hi> Thou ſhalt <hi>hide</hi> me in the <hi>Secret</hi> of thy <hi>preſence;</hi> Lord, Thou art my hiding place, Yea Lord, let all thy People be thy <hi>hidden ones;</hi> Call them into thy Chambers, hide them from the pride and rage of man. Seek
+<pb n="40" facs="tcp:37427:26"/>
+the Lord, It may be you ſhall be hid in the day of the Lords an<g ref="char:EOLhyphen"/>ger, <hi>Zeph.</hi> 2. 3. you have at leaſt an <hi>It may be,</hi> for it; Who know<g ref="char:EOLhyphen"/>eth but the Lord will hide, won<g ref="char:EOLhyphen"/>derfully (for ſo it muſt be) and keep this <hi>Generation</hi> of his peo<g ref="char:EOLhyphen"/>ple, though they dwell in the fire; wonderful it is to ſee the <hi>Buſh burning,</hi> and yet not conſu<g ref="char:EOLhyphen"/>med.</p>
+            <p>The Lord hath gloriouſly tri<g ref="char:EOLhyphen"/>umphed in the death of ſome of his Witneſſes, who by dying have overcome (more than by ſignal battels in the field) and it may be hath ſome more to ſet to their Seal the ſame way, but this Generation of people ſhall enter their Chambers, and ſhall yet be further hid, till the Lord come out of his place, and the earth diſcloſe her blood. As I have believed, ſo have I ſpo<g ref="char:EOLhyphen"/>ken.</p>
+            <p>
+               <pb n="41" facs="tcp:37427:26"/>Bleſſed be the Lord, who <hi>remem<g ref="char:EOLhyphen"/>bers</hi> his people in theſe poor Nati<g ref="char:EOLhyphen"/>ons, and <hi>will not caſt them off:</hi> For thou Lord wilt bleſs the righteous, with favour wilt thou compaſs them as with a ſhield. Thou art good, and ready to forgive, and thou wilt forgive the ſin of thy people, (though they have been a rebellious Seed) be<g ref="char:EOLhyphen"/>cauſe they be thy people, and thy Name is in them, and thy great glory is conferred upon them; for the nee<g ref="char:EOLhyphen"/>dy ſhall not alwayes be forgotten, nor ſhall the expectation of the poor fail from before thee. And thus much of the firſt branch of the Propoſition<g ref="char:punc">▪</g> We now come to the ſecond thing, <hi>Viz.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>The Lord Jeſus Chriſt ſometimes calls his Saints to retirement from publike Services, and publike Adminiſtrations of Worſhip.</head>
+            <p>
+               <pb n="42" facs="tcp:37427:27"/>We would prove this, and <hi>when</hi> the Lord ſo calls, and <hi>why</hi> he calls them to ſuch a <hi>retirement.</hi>
+            </p>
+            <p>The two great inſtances of the Old and New Teſtament, do confirm this.</p>
+            <p>1. That of the people of God in <hi>Babylon,</hi> where the <hi>remnant</hi> of the beſt people were carryed, according to the Word of the Lord to them by <hi>Jeremiah,</hi> and there the Lord promis<g ref="char:EOLunhyphen"/>ſeth to be a <hi>little Sanctuary</hi> to them, <hi>Ezek.</hi> 11. 13. but there they had no <hi>Temple</hi> nor <hi>Sacrifices</hi> while they were in their captivity, but were to live in the Faith of their return from the Captivity, when the Temple ſhould be built again; and they were to humble themſelves to the Lord, and to cry to him till it were accompliſht: So that here the Lord in that day of diſtreſs, promiſeth to take care of the Remnant, <hi>Ezek.</hi> 11. 13. accor<g ref="char:EOLhyphen"/>ding to the plea of the Prophet, <hi>Ah
+<pb n="43" facs="tcp:37427:27"/>
+Lord God, wilt thou make a full end of the Remnant of Iſrael;</hi> And the Lord promiſeth to reſtore them, to bring them back to their Land, and to give them his Ordinances as in the dayes paſt: Yet during their captivity, they were deprived of all poſitive wor<g ref="char:EOLhyphen"/>ſhip, of all publike Adminiſtrati<g ref="char:EOLhyphen"/>ons, but lived in the Faith of their return, according to the Word of Lord by his Prophets to them.</p>
+            <p>So in the New-Teſtament times, during the Captivity of the true Worſhippers and Witneſſes of Je<g ref="char:EOLhyphen"/>ſus Chriſt under the Myſtical <hi>Baby<g ref="char:EOLhyphen"/>lon;</hi> The true Church is call'd in<g ref="char:EOLhyphen"/>to the <hi>Wilderneſs,</hi> where <hi>ſhe hath a place prepared of God,</hi> where ſhe ſhould be <hi>fed,</hi> Rev. 12. 6. where ſhe lieth <hi>hid:</hi> And though there is a <hi>Temple meaſured,</hi> Rev. 11. 1. yet 'tis as <hi>ſhut up,</hi> till at the pouring out of the Vials, the Temple is <hi>opened,</hi>
+               <pb n="44" facs="tcp:37427:28"/>
+Rev. 15. 5. But eſpecially towards the end of the Beaſts reign, when the Witneſſes have propheſied more openly, and have <hi>finiſhed a Teſtimo<g ref="char:EOLhyphen"/>ny</hi> to all the Offices of Jeſus Chriſt, eſpecially that of his Kingly Pow<g ref="char:EOLhyphen"/>er over Saints and Nations, (the Nations that are found in the Spi<g ref="char:EOLhyphen"/>rit of the Beaſt, <hi>make war</hi> againſt them, and ſlay them; that is, lay their, Teſtimony dead, as if the ef<g ref="char:EOLhyphen"/>fects of it ſhould never appear: All publike Propheſying, and publike Adminiſtrations of Worſhip, are cut off, and laid dead (wherein the laſt ſlaying of the Witneſſes doth ſpecially conſiſt) yet the main body and generation of the Saints preſerved; but <hi>ſo,</hi> as they are in all reſpects, either Civil or Eccleſia<g ref="char:EOLhyphen"/>ſtical, call'd off from the publike Stage, to a <hi>retired</hi> condition, and do lye as <hi>dead</hi> men (onely they are not <hi>buryed,</hi> but are, as it were, ſtill kept
+<pb n="45" facs="tcp:37427:28"/>
+above ground) till the Spirit of Life from God enter into them: So at the Text, when the People of God are called into their <hi>Chambers,</hi> he ſaid, in the <hi>19th.</hi> verſe of the 26. chap. of <hi>Iſaiah, Thy dead men ſhall live, &amp;c.</hi> while in their captivity, they lay as dead men.</p>
+            <p>So <hi>Hoſea</hi> 6. 1, 2. When <hi>ſmitten</hi> and <hi>wounded</hi> in their captivity, they ſhall lye as <hi>dead;</hi> but <hi>after two dayes,</hi> he wil <hi>revive</hi> them.</p>
+            <p>But more particularly, <hi>when</hi> doth the Lord call them thus to retire<g ref="char:EOLhyphen"/>ment, call them off from the publike ſtage, and bids them enter into their Chambers?</p>
+            <p>1. In the caſe of the text, <hi>When the wrath of man is kindled againſt them,</hi> when the Nations and people among whom they converſe, are in a <hi>confede<g ref="char:EOLhyphen"/>racy</hi> againſt them, and ſay of <hi>Zi<g ref="char:punc">▪</g>
+                  <pb n="46" facs="tcp:37427:29"/>
+on, Let her be defiled, and let our eye look upon Zion,</hi> Micah the <hi>4th.</hi> and the <hi>11th.</hi> Verſe. Then he knoweth how to <hi>hide</hi> his people as in his <hi>Pavillion;</hi> then ſhall they be his <hi>hidden ones.</hi> Pſal. 83. So he <hi>hid</hi> the ſeven thou<g ref="char:EOLhyphen"/>ſand in <hi>Samaria,</hi> that did not bow the knee to <hi>Baal,</hi> whom the text ſaith, <hi>He reſerved to himſelf,</hi> Rom<g ref="char:punc">▪</g> the <hi>11th.</hi> chap. ver. 4. And yet that people, at that day, were under an obligation of Worſhip at the Temple at <hi>Hieruſalem;</hi> but God did indulge them, as may further bee ſhewed.</p>
+            <p>So (as hath been hinted) the <hi>Lord hides</hi> the Woman in the wil<g ref="char:EOLhyphen"/>derneſs from the Wrath of the Dragon, who caſts a Flood after her.</p>
+            <p>
+               <hi>2dly,</hi> Jeſus Chriſt calls his peo<g ref="char:EOLhyphen"/>ple to retirement, when he <hi>reſerves</hi>
+               <pb n="47" facs="tcp:37427:29"/>
+them for a Day of Mercy and greater Service, and a more pure Reformation, when hee thus layes them dead in order to a more glo<g ref="char:EOLhyphen"/>rious reſurrection. So in ſeverall Ages have they been wonderfully kept under the variety of the Lord's Diſpenſations to them; as in <hi>Egypt,</hi> and <hi>David,</hi> and the remnant of <hi>Ju<g ref="char:EOLhyphen"/>dab</hi> that adhered to them: Many inſtances might be given.</p>
+            <p>
+               <hi>3dly,</hi> The Lamb calls to retire<g ref="char:EOLhyphen"/>ment when he hath been <hi>conteſting</hi> with the Spirit of the Beaſt in any of the Nations, by the <hi>called,</hi> and <hi>faithful,</hi> and <hi>choſen, Rev.</hi> 17. 14. When he hath ſet on foot his con<g ref="char:EOLhyphen"/>troverſie with any of the <hi>Horns<g ref="char:punc">▪</g>
+               </hi> and hath <hi>overcome</hi> them, hath of<g ref="char:EOLhyphen"/>ten carried it againſt him yet hee ſuffers his Enemies to rally again, and his own followers are ſcattered; when he ſeems to turn aſide from
+<pb n="48" facs="tcp:37427:30"/>
+the <hi>purſuit, to drink of the Brook in the way,</hi> (as it were) to refreſh himſelfe, and then makes a <hi>ſhort turn</hi> to the <hi>Prey</hi> again, <hi>Pſalm</hi> 110. Verſe the laſt, that hee may gather his Enemies as <hi>ſheaues into his floor,</hi> Micah 4. 12, 13. and will make the <hi>Horn</hi> of the Daughter of <hi>Zion</hi> as Iron, to <hi>threſh them</hi> in ſuch a day<g ref="char:punc">▪</g> The Lamb <hi>withdraws</hi> and <hi>retires,</hi> and calls his Saints to retire with him: And this is to follow the <hi>Lamb whereſoever be goeth,</hi> Revel. 14. to go as he goeth, and to retire as he retires, and not to run out with<g ref="char:EOLhyphen"/>out him, upon any account what<g ref="char:EOLhyphen"/>ſoever. In ſuch a ſeaſon the Lamb doth <hi>indulge</hi> them, nay <hi>call them</hi> off from their publike Adminiſtrations and Services, and Propheſyings, and they are to wait till the Cloud appear and goe before them, in which they can ſee the Preſence of the Lamb, and heare his Voice
+<pb n="49" facs="tcp:37427:30"/>
+calling them thereto.</p>
+            <p>
+               <hi>4thly,</hi> The Lord (as it fol<g ref="char:EOLhyphen"/>lows from the former, calls them to retirement, <hi>when</hi> hereby he will <hi>fit</hi> and <hi>ſeparate</hi> a genetation to <hi>follow</hi> him in his next appea<g ref="char:EOLhyphen"/>ring, when hee will prepare them in the fire, <hi>melt</hi> them, and <hi>try</hi> rhem, <hi>Jer.</hi> 9. 7.
+<q>I will melt them, and try them; for how ſhall I do for the Daugh<g ref="char:EOLhyphen"/>ter of my people?</q>
+Then he will caſt out the treacherous dealers from among them, as Verſe 4. of that <hi>9th.</hi> of <hi>Jeremiah;</hi>
+               <q>Take heed every one of his Neigh<g ref="char:EOLhyphen"/>bour, and truſt ye not in any Brother; for every Brother wil ſupplant, <hi>&amp;c.</hi> And they will de<g ref="char:EOLhyphen"/>ceive every one his Brother, and will not ſpeak the truth, <bibl>
+                     <hi>ver. 5.</hi>
+                  </bibl>
+               </q>
+Now God will diſcover and caſt out ſuch a <hi>mixture</hi> and <hi>ſpi<g ref="char:EOLhyphen"/>ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> from among his people, in
+<pb n="50" facs="tcp:37427:31"/>
+the day that he will <hi>melt</hi> them, and <hi>try</hi> them, v. 7. and <hi>Ezek.</hi> 22. 18, <hi>&amp;c.</hi>
+            </p>
+            <p>When the Lord is doing this work, by letting out the wrath of man upon them, he then calls them to retirement<g ref="char:punc">▪</g>
+            </p>
+            <p>2. <hi>Why</hi> doth the Lord thus call them? <hi>&amp;c.</hi>
+            </p>
+            <p>1. The Lord calls his people in<g ref="char:EOLhyphen"/>to their <hi>Chambers,</hi> into a <hi>retired</hi> condition, to expreſs his <hi>tender<g ref="char:EOLhyphen"/>neſs</hi> of them, as he calls them the <hi>Apple of his Eye,</hi> Zach. 2. 8. <hi>He that toucheth you, toucheth the Apple of mine eye, &amp;c. Keep me as the Apple of thine eye, Pſal.</hi> 17. and his <hi>pecu<g ref="char:EOLhyphen"/>liar Treaſure,</hi> Exod. 19. 5. Pſal. 135. 4. Such a day is a day of <hi>making up his jewels,</hi> Mal. 3. 17. referring to a day of retirement, when <hi>the wick<g ref="char:EOLhyphen"/>ed were ſet up,</hi> v. 15. then when he makes them up, he not onely <hi>puri<g ref="char:EOLhyphen"/>fies</hi> them, and puts a luſtre upon
+<pb n="51" facs="tcp:37427:31"/>
+them, but <hi>ſpares them as a Father ſpares his Son,</hi> and doth not ſpend them, but rarely, upon the rage of men.</p>
+            <p>2. The Lord thus takes them into his Chambers, that the <hi>glory of his Power</hi> may be ſeen in <hi>reſtrain<g ref="char:EOLhyphen"/>ing</hi> the wrath of man, and cauſing it to praiſe him; that his people ſhould be in the waters, and not be overwhelmed; and in the fire, &amp; not be conſumed; this is becauſe the Lord is with them, <hi>becauſe he is the Lord their God, the holy One of Iſrael, their Saviour,</hi> Iſa. 43. 2, 3. That the Enemies of his Peo<g ref="char:EOLhyphen"/>ple ſhould not be able to act their own counſels, nor to exe<g ref="char:EOLhyphen"/>cute their own rage, by a migh<g ref="char:EOLhyphen"/>ty hand of God reſtraining. This is, and ſhould be marvellous in the eyes of his people.</p>
+            <p>
+               <pb n="52" facs="tcp:37427:32"/>
+               <hi>3dly,</hi> The Lord calls to retire<g ref="char:EOLhyphen"/>ment, when the generation of the ungodly and oppreſſors are <hi>ripen<g ref="char:EOLhyphen"/>ing for wrath;</hi> then doth the Lord <hi>lay up his people</hi> in the ſecret of his Preſence; ſo <hi>Pſal.</hi> 91. which is a word holding out the Lord's <hi>hi<g ref="char:EOLhyphen"/>ding</hi> of his people, as hath been hinted, So ſee verſe 8. 9. <q>Onely with thine eyes ſhalt thoubehold, and ſee the reward of the wicked; <hi>&amp;c.</hi> Thou ſhalt tread upon the Lyon and Adder, the young Ly<g ref="char:EOLhyphen"/>on and the Dragon ſhalt thou trample under foot, <hi>v.</hi> 13.</q> Now the People of God will diſcern through the light of the Spirit in the Word, the Marks and Cha<g ref="char:EOLhyphen"/>racters of a generation of God's Wrath, which in this place I ſhall not inſiſt on. They are ſuch as theſe:</p>
+            <p>
+               <q>When a generation of men do <hi>worſe then their Fathers,</hi> Jer. 7. 2.
+<pb n="53" facs="tcp:37427:32"/>
+and chap. 16. 12, 13. <hi>Ye have done worſe than your Fathers,</hi> for behold ye walk every one accor<g ref="char:EOLhyphen"/>ding to the imagination of his e<g ref="char:EOLhyphen"/>vil heart, <hi>&amp;c. therefore will I caſt you out of this Land, &amp;c.</hi> And this in a <hi>Land of Viſion,</hi> and after the hand of God hath been emi<g ref="char:EOLhyphen"/>nently lifted up againſt them; When a people return to Idola<g ref="char:EOLhyphen"/>try, and Antichriſtian abomina<g ref="char:EOLhyphen"/>tions, when Jeſus Chriſt hath begun to reform a Nation, as in the dayes of <hi>Manaſſeh;</hi> When ſuch a generation do <hi>declare their ſin as Sodom,</hi> Iſa. 5. When abomi<g ref="char:EOLhyphen"/>nable uncleanneſs, exceſs and ri<g ref="char:EOLhyphen"/>ot, and all manner of villany is acted as at noon-day; When they perſecute the Prophets and Meſ<g ref="char:EOLhyphen"/>ſengers of the Lord, that they may not ſpeak unto the people, 2 Chron. 36. 16. <hi>But take away the Key of Knowledge,</hi> Luke 17. with
+<pb n="55" facs="tcp:37427:33"/>
+Mat. 23. <hi>forbidding</hi> the ſervants of Chriſt <hi>to ſpeak unto the people,</hi> that they <hi>may fill up their ſin alwayes,</hi> and <hi>wrath come upon them to the ut<g ref="char:EOLhyphen"/>moſt,</hi> 1 Theſſ. 2. 15, 16<g ref="char:punc">▪</g> (which the Spirit of God gives as a Cha<g ref="char:EOLhyphen"/>racter of a people filling up their meaſure.</q>
+            </p>
+            <p>
+               <q>When a generation ſhall do<g ref="char:EOLhyphen"/>ingly <hi>blaſpheme the Spirit of the Lord Ieſus,</hi> calling it an <hi>unclean Spirit,</hi> Matt. 12. 24. 31. as the Pha<g ref="char:EOLhyphen"/>riſees at that day call'd the Spirit by which Jeſus Chriſt did preach, and pray, and wrought all his works, an <hi>unclean Spirit;</hi> when in their ordinary language they in<g ref="char:EOLhyphen"/>voke their damnation, and <hi>ſet their mouths againſt the Heavens;</hi> and the Spirit, and Holineſſe, and Saints, becomes their by-word and their ſong, and entitle Satan to all the glorious works of Chriſt in <hi>Converſion,</hi> and call it all <hi>Deluſi<g ref="char:EOLhyphen"/>on</hi>
+                  <pb n="54" facs="tcp:37427:33"/>
+and <hi>Fanaticiſm;</hi> when they op<g ref="char:EOLhyphen"/>preſs, perſecute, (and worſe) the Saints and Servants of the Lord, filling Priſons with them; when they ſet themſelves in the Throne of the Lord, and will be Lords in the Conſcience, and make the Sons of <hi>Zion</hi> as the filth of the Earth; and all this after the Lord hath been pleading his Contro<g ref="char:EOLhyphen"/>verſie with them, in very ſtupen<g ref="char:EOLhyphen"/>dious Diſpenſation, and by their hour of proſperity they are but hardened in their way, and ſay they are delivered to all their abo<g ref="char:EOLhyphen"/>minations; that is certainly <hi>a Gene<g ref="char:EOLhyphen"/>ration of God's wrath.</hi> Now among ſuch a generation the Lord calls his people to retirment (into their Chambers) till his wrath come upon the wicked to the utmoſt, and he wil put in his ſickle, &amp; <hi>reap</hi> down their abominations, <hi>and none ſhall ſave them<g ref="char:punc">▪</g>
+                  </hi>
+               </q>
+            </p>
+            <p>
+               <pb n="56" facs="tcp:37427:34"/>4. The Lord calls to retire<g ref="char:EOLhyphen"/>ment, that they may deal with him by faith and prayer, in their ſecret corners, and may wait for his teachings, <hi>&amp;c.</hi> as may further be opened in the cloſe of this Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+            <p>And thus we have endeavoured to cleare the point, That Jeſus Chriſt calls his Followers from off the publike Stage, into a more retired condition, <hi>when,</hi> and <hi>why</hi> he doth it. I ſhall come to ſome uſe<g ref="char:EOLhyphen"/>ful concluſions, and ſo anſwer the objections and diſ-ſatisfactions of any that lye againſt it.</p>
+            <p>1. If Jeſus Chriſt doth ſome<g ref="char:EOLhyphen"/>times in his providential Diſpenſa<g ref="char:EOLhyphen"/>tions, call off his people to retire<g ref="char:EOLhyphen"/>ment, &amp; puts them as into the holes of the Rock, then it wil follow that one Diſpenſation calls for that w<hi rend="sup">ch</hi> another doth not; the Lord calls for that at one time, w<hi rend="sup">ch</hi> he doth not at
+<pb n="57" facs="tcp:37427:34"/>
+another, ſometimes to a more open appearing in their publike ſervices and actings for him, and adminiſtrati<g ref="char:EOLhyphen"/>ons of worſhip and propheſying, ſometimes to a more open expoſing to ſufferings, and at another time the Word of the Lord is, <hi>Enter into thy Chambers, &amp;c.</hi> ſhut thy doors about thee. So what hath been a duty for Saints in one day, hath not been ſo expreſly (I mean the main generation of them) a duty at another; eſpecial<g ref="char:EOLhyphen"/>ly in the later diſpenſations of the Lord towards the giving up of the Kingdom of the Beaſt, when the Lords controverſion is now, and of his Kingdome, hath been with a high hand carrying on, as hath been ſhew<g ref="char:EOLhyphen"/>ed; In ſuch a day the Lamb marcheth againſt his Enemies, and then <hi>re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reats,</hi> and ſounds a Retreat to his called Ones; ſometimes he faceth the beaſt, and then withdraws, and drinks of the Brook in the way; he coucheth like a Lyon, and then anon <hi>riſeth up</hi> to pur<g ref="char:EOLhyphen"/>ſue
+<pb n="58" facs="tcp:37427:35"/>
+the prey: Here is the wiſdom of the Saints, here is following the Lamb; this is to ſee his footſteps, to walk af<g ref="char:EOLhyphen"/>ter them.</p>
+            <p>2. Let it be therefore for an <hi>hum<g ref="char:EOLhyphen"/>ble enquiry</hi> at leaſt, to all that are ſo<g ref="char:EOLhyphen"/>ber, to weigh what hath been hinted, and to conſider if this be not <hi>the Word of the Lord</hi> at this day, whether Jeſus Chriſt hath not ſounded a retreat, whether he doth not call off from <hi>pub<g ref="char:EOLhyphen"/>like Propheſying,</hi> and more <hi>publike Ad<g ref="char:EOLhyphen"/>miniſtrations,</hi> (though the wickedneſs of men be inſtrumentally in it) yea whether the <hi>Teſtimony</hi> be not <hi>ſlain</hi> and <hi>lyes dead;</hi> and that all the Characters of it have a viſible accompliſhment at this day, a <hi>Teſtimony</hi> finiſhed, <hi>Rev.</hi> 11. 7. to all the <hi>Offices</hi> of Jeſus Chriſt, and of his <hi>Kingdom</hi> in the world, in all the concernments of it, and againſt the whole Myſterie of Iniquity, and of the Kingdom of the Beaſt, and that eſpecially in this part of the world where the Spirit is given forth.</p>
+            <p>
+               <pb n="59" facs="tcp:37427:35"/>And when we had been looking for the fulfilling hereof, lo a <hi>Death</hi> up<g ref="char:EOLhyphen"/>on the whole, and the Witneſſes lye as dead in all the parts of the world, let the place be named where an open teſtimony againſt all the abominati<g ref="char:EOLhyphen"/>ons of the Beaſt, againſt all their Na<g ref="char:EOLhyphen"/>tional wickedneſſes, and a teſtimony for the Lord Jeſus in the whole of his Kingdom, as King of Saints and Na<g ref="char:EOLhyphen"/>tions will be born; though ſome Go<g ref="char:EOLhyphen"/>ſpel truths will be born, and are pra<g ref="char:EOLhyphen"/>ctiſed among them: Yea, what a ſtrange <hi>healing up</hi> hath there been in all the Nations of <hi>Europe,</hi> among all the ten horns, a <hi>General Peace</hi> in the Kingdom of the Beaſt, not a Horn or Nation that wars againſt Babylon; not a hand lifted up againſt her in a way of War, to hate her, and make her deſolate; but all preparations from the North and the Weſt, huſht up, levelled, and laid dead, when a few years ſince the Nations were all in a flame, as if the <hi>laſt diſtreſs</hi> had
+<pb n="60" facs="tcp:37427:36"/>
+been upon them: But lo a <hi>healing</hi> up, a <hi>ſtilneſs,</hi> and the proud Whore ſits as a Queen, glorifying her ſelf that ſhe ſhall ſee no ſorrow, (which ſhe fear<g ref="char:EOLhyphen"/>ed before) and ſhall not be a <hi>Wid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w,</hi> nor be made <hi>deſolate.</hi> Which healing &amp; Peace among the horns, is implyed in <hi>their ſending gifts</hi> (by their Em<g ref="char:EOLhyphen"/>baſſadors) <hi>one to another.</hi> Rev. 11. 10. becauſe the <hi>People</hi> and <hi>Spirit</hi> which they moſt feared, is <hi>laid dead;</hi> the pro<g ref="char:EOLhyphen"/>pheſying of ruine to the haſtening up<g ref="char:EOLhyphen"/>on the Beaſt, and wrath upon the Na<g ref="char:EOLhyphen"/>tions, ſeems to have been but a fancy, and to come to nought; for behold, their prayers, witneſſings, propheſy<g ref="char:EOLhyphen"/>ings, Armies, every where in the <hi>whole ſtreet</hi> of the City are come to nought. Is not this the triumph of the Nations at this day, and of the Beaſt?</p>
+            <p>Such as ſtate the laſt ſlaughter of the witneſſes to be already paſt, name<g ref="char:EOLhyphen"/>ly about the year 1558. when that ge<g ref="char:EOLhyphen"/>neral blow was given to the Prote<g ref="char:EOLhyphen"/>ſtant
+<pb n="61" facs="tcp:37427:36"/>
+Intereſt in <hi>Germany,</hi> and other Nations, and by the <hi>Marian</hi> Perſecu<g ref="char:EOLhyphen"/>tion in this Nation, have ſufficient confutation by what hath ſince fallen out in ſeveral Nations, in the perſecu<g ref="char:EOLhyphen"/>ting and ſlaying of the Witneſſes in <hi>Poland, France, Ireland,</hi> &amp;c. of late years; and the death that the whole Work of Chriſt is under at this day, it being clear, that when the laſt ſlaughter is paſt, and the lying dead three days and an half is <hi>over,</hi> in the Witneſse reſurrection, that then they <hi>aſcend<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to Heaven,</hi> into a ſtate of <hi>Liberty, Power</hi> and <hi>Glory,</hi> from which they fall no more; but the <hi>ſeventh An<g ref="char:EOLhyphen"/>gel ſounds,</hi> and the <hi>third Wo</hi> cometh up<g ref="char:EOLhyphen"/>on the World (the laſt Plagues to be executed upon the Antichriſtian World, and <hi>Voices are heard in Heaven</hi> (amongſt the Churches) proclaiming the Lord Jeſus <hi>King of Nations;</hi> for that upon the reſurrection of the Witneſses, and ſounding of the ſe<g ref="char:EOLhyphen"/>venth Angel, the Lord Jeſus comes
+<pb n="62" facs="tcp:37427:37"/>
+forth <hi>to take to himſelf his great Power,</hi> and <hi>to reign,</hi> to conteſt with the Horns about his Soveraignty, to rule the Na<g ref="char:EOLhyphen"/>tions with a Rod of Iron, breaking them in pieces as a Porters Veſsel; at which time (as ſome eminent Witneſs of the Lord have well ſtated it) <hi>The little Stone,</hi> cut out without hands (the ſeparated Saints in the Nations) be<g ref="char:EOLhyphen"/>gins in a more eſpecial manner to <hi>ſmi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Image,</hi> Dan. 2. 39. (for the Stone begins to ſmite <hi>upon the feet</hi> of the Image, the laſt part of the <hi>Roman</hi> Monarchy, which roes upon the feet <hi>ver.</hi> 41. are the ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me with the ten Horns, as <hi>Dan.</hi> 7. And the Stone ſmiting <hi>breaking in pieces<g ref="char:punc">▪</g> &amp; conſuming the King<g ref="char:EOLhyphen"/>doms</hi> (as the Spirit of God opens the meaning of the Stone, and its ſmiting, <hi>v. 44.) And in the dayes of theſe Kings, ſhall the God of Heaven ſet up a King<g ref="char:EOLhyphen"/>dom</hi> (the Kingdom of the Stone) <hi>which ſhall never be deſtroyed, and the Kingdom ſhall not be left to oth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r people, but it ſhall break in pieces, and conſume
+<pb n="63" facs="tcp:37427:37"/>
+all theſe Kingdoms, and it ſhall ſtand for ever</hi>) is interpreted further in the Vi<g ref="char:EOLhyphen"/>ſion that <hi>Daniel</hi> himſelf had of the ſame thing, ch. 7. 22. 26 <hi>When Judge<g ref="char:EOLhyphen"/>ment is given to the Saints of the Moſt High;</hi> And ver. 26. <hi>The Judgement ſhall ſit</hi> (the Saints judging the ten<g ref="char:EOLhyphen"/>horned Beaſt and his Kingdom) <hi>and they ſhall take away his Dominion to con<g ref="char:EOLhyphen"/>ſurne and to deſtroy it unto the end.</hi> But I do but hint here, what I may give a further account of in due time, to re<g ref="char:EOLhyphen"/>move the ſtumbling-blocks that lie in the way of many of the Lord's Peo<g ref="char:EOLhyphen"/>ple as to this glorious truth.</p>
+            <p>But <hi>I</hi> return to my enquiry, which is, that I humbly judge that the laſt ſlaying of the Witneſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es was not a<g ref="char:EOLhyphen"/>bout the time mentioned, for the rea<g ref="char:EOLhyphen"/>ſons hinted (and others might be gi<g ref="char:EOLhyphen"/>ven) but rather, that great, ſore blow upon the Proteſtant Intereſt, to be fix<g ref="char:EOLhyphen"/>ed upon that foot of account, namely, of <hi>the Beaſt making war with the Saints, and overcoming them,</hi> Rev. 13. 7. which
+<pb n="64" facs="tcp:37427:38"/>
+War from the time of the <hi>Waldenſian</hi> people he hath been carrying on, and <hi>overcome them:</hi> And ſo in <hi>Bohemia, Germany, &amp;c<g ref="char:punc">▪</g>
+               </hi> upon which Word are all the former Wars and Victories of the Beaſt to be ſtated, and not in refe<g ref="char:EOLhyphen"/>rence to the laſt ſlaughter, when the <hi>Beaſt makes War with the Witneſſes, and kills them, and overcomes them;</hi> which is after a <hi>full</hi> teſtimony hath been finiſh<g ref="char:EOLhyphen"/>ed to <hi>all</hi> the Offices, <hi>Work</hi> and <hi>King<g ref="char:EOLhyphen"/>dom</hi> of our Lord Jeſus, and then the Beaſt (ſuch as are in the Spirit of the Beaſt, and influenced by him) riſe up (by the wiſe and holy permiſſion and ordering of the Lord to bring about his own glorious deſign) and <hi>ſlay the Teſtimony,</hi> lay it dead (eſpecially in a civil ſence) in that tenth part of the City where the <hi>killing</hi> moſt eminent<g ref="char:EOLhyphen"/>ly is (which is, where the moſt emi<g ref="char:EOLhyphen"/>nent Teſtimony for the Kingdom of Chriſt is the Spirit, hath been of any of the Nations) and ſo all <hi>publike pro<g ref="char:EOLhyphen"/>pheſying,</hi> in an ordinary way, and with
+<pb n="65" facs="tcp:37427:38"/>
+an allowed liberty becomes cut off, &amp; the publike aſſembling of Churches ſuppreſt, in that tenth part of the City, ſo that the Work &amp; Kingdom of Jeſus Chriſt being likely to ariſe a few years ſince in the apprehenſion of moſt of the Saints, and to the terror of the Nations, lo it is laid dead; &amp; ſay the ſons of <hi>Babylon,</hi> we wil ſo bury it that it ſhall riſe no more, though that will be found their great error.</p>
+            <p>I might <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtance the Judgement of ſeveral ancient &amp; holy Witneſſes of Chriſt, who are now in the ſame ap<g ref="char:EOLhyphen"/>prehenſion as to this diſpenſation we are under, &amp; of ſome who in the high<g ref="char:EOLhyphen"/>eſt day of our proſperity a few years ſince, ſpake of it as to come upon us; &amp; alſo (as is humbly judg'd by ſom wor<g ref="char:EOLhyphen"/>thy ſervants of the Lord at this day, that a more then ordinary diſcovery &amp; revelation hath been given forth to a worthy Miniſter of Chriſt, &amp; ſome o<g ref="char:EOLhyphen"/>thers, that this is the 3. days &amp; a half in w<hi rend="sup">ch</hi> the <hi>witneſſes</hi> are to <hi>lie dead,</hi> w<hi rend="sup">ch</hi> I think meet only to hint at this time.</p>
+            <p>
+               <pb n="66" facs="tcp:37427:39"/>But if ſo, then the Word of the Lord is, <hi>Go and dye,</hi> as to ordinary, publike Propheſying; and 'tis the wiſ<g ref="char:EOLhyphen"/>dom of the Saints to ſubmit to the Diſpenſation of God, and to be con<g ref="char:EOLhyphen"/>tent even to lye as dead men, in a civil ſence, till the ſpirit of life from God enter, and a voice be heard in the pro<g ref="char:EOLhyphen"/>vidential workings of the Lord, <hi>Come up hither,</hi> Rev. 11. 12. And let it be ſo<g ref="char:EOLhyphen"/>berly conſidered whether the contra<g ref="char:EOLhyphen"/>ry practice be not to croſs the very deſign of the Lord at this day, and to ruine the Churches and whole Intereſt of Jeſus Chriſt, whoſe <hi>reſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrection</hi> and <hi>reſtauration</hi> we are patiently to wait for.</p>
+            <p>Yea, (whether this be the laſt ſlaying or not) 'tis worthy a ſerious Judgement to conſider, That in the ſeveral Ages of Perſecucion from the Apoſtles dayes (unleſs where ſome have been carryed forth by an extra<g ref="char:EOLhyphen"/>ordinary impulſe of Spirit) the Pro<g ref="char:EOLhyphen"/>feſsors and Churches of Chriſt met
+<pb n="67" facs="tcp:37427:39"/>
+together in ſuch a way as might moſt probably <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd to their preſervation; in a private and retired way, in the beſt Wiſdom they could; as the Di<g ref="char:EOLhyphen"/>ſciples, <hi>John</hi> 20, 19. they were aſſem<g ref="char:EOLhyphen"/>bled in an <hi>upper Room</hi> for fear of the Jews: And the Church of <hi>Hieruſal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>att<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red abroad</hi> in parties in the ſeveral Provinces upon the Perſecution, <hi>Acts</hi> 8. when they began to be hal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to priſon from their Meetings; and thoſe that remained, kept in a private way, <hi>Acts</hi> 12. And ſo we find the Chriſti<g ref="char:EOLhyphen"/>ans aſsembling ſecretly, &amp; by night, as they had opportunity: As that Congregation that continued together in Q. <hi>Mary</hi>'s dayes in <hi>London,</hi> and kept up their Meetings ſecretly, and were wonderfully preſerved in that day; though (as I may preſently ſhew) 'tis hard to give out any general, ab<g ref="char:EOLhyphen"/>ſolute Rule in this caſe: But 'tis cer<g ref="char:EOLhyphen"/>tain, this was their ordinary practice: The reaſons hereof have been ſpoken to. It may further be added, that in
+<pb n="68" facs="tcp:37427:40"/>
+ſuch a retired way, they ſhall not ſo much dare and provoke the civil Ma<g ref="char:EOLhyphen"/>giſtrate to greater wrath againſt them, and not lay a ſtumbling block in their way, but ſeem more to walk in the meekneſs of Jeſus Chriſt; and 'tis the liberty that Jeſus Chriſt doth indulge them, and anſwers his promiſe of preſerving, and being a Sanctuary to a holy Seed from one generation to another, and not to be expoſed to the blood thirſtineſs and rage of their per<g ref="char:EOLhyphen"/>ſecutors, though ſtill honoring himſelf by the ſuffering of ſome.</p>
+            <p>And as this hath been the practiſe of the Churches of Chriſt in times of perſecution, ſo of particular Miniſters and Witneſſes of the Lord in all ages, namely, as they were led by the ſpirit of the Lord to <hi>retire</hi> from <hi>particular perſecution,</hi> eſpecially when their caſe was different from the reſt of the <hi>ſaints</hi> as in ſom ages it hath bin; the firſt blow was at the Miniſters of Chriſt; ſo <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> fled before the face of <hi>Pharoah,</hi> and
+<pb n="69" facs="tcp:37427:40"/>
+dwelt in the Land of <hi>Midean</hi> till the time of deliverance came to the <hi>Iſraelites</hi> in <hi>Aegypt,</hi> Exod. 2. 15.</p>
+            <p>So <hi>David</hi> from the perſecution of <hi>Saul,</hi> who retired into the Wilderneſs, where the Lord <hi>hid</hi> him, till the time that the promiſe ſhould be fulfilled in his reign over <hi>Iſrael,</hi> 1 <hi>Sam.</hi> 19. 18. though in his retirement he was deprived of the Inſti<g ref="char:EOLhyphen"/>tutions of the Worſhip of God in the temple, as he complains complains in ſeveral <hi>Pſalms.</hi>
+            </p>
+            <p>
+               <hi>Elijah</hi> had given an <hi>eminent Teſtimony</hi> againſt <hi>Ahab,</hi> and the <hi>abominations</hi> of that day, and propheſied the wrath of God to come upon <hi>Iſrael.</hi> But when he knew the miſchief that <hi>Ahab</hi> intended, and he had finiſhed his Teſtimony, the Lord commands him to go and <hi>hi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e</hi> himſelf, 1 <hi>Kings</hi> 17. 2. &amp; 8. and Chap<g ref="char:punc">▪</g> 10. 10<g ref="char:punc">▪</g> And we know <hi>Elijah</hi> was an emi<g ref="char:EOLhyphen"/>nent Type of the Witneſſes of Jeſus Chriſt under the New-Teſtament <hi>Baby<g ref="char:EOLhyphen"/>lon;</hi> though in the third year when it ſhould rain again<g ref="char:punc">▪</g> according to the word of the Lord (which made way for <hi>Elijah's</hi> appearance) he ſhewed himſelf to <hi>Ahab,</hi> and God was with him to deliver him: But when <hi>Jezebel</hi> ſought after him again, ch. 19. he went into the Wilderneſs, and <hi>hid</hi> himſel in a <hi>Cave,</hi> v. 9.</p>
+            <p>
+               <pb n="71" facs="tcp:37427:41"/>At the ſame time before the three years were finiſhed, and the Perſecu<g ref="char:EOLhyphen"/>tion by <hi>Jezebel</hi> continued againſt all the Lords Prophets, 1 <hi>King. 18. Obadiah hid</hi> the Prophets by 50. in a Cave, who at other times were publikely prophe<g ref="char:EOLhyphen"/>ſying.</p>
+            <p>So when the King had ſent out a Warrant and Officers to take <hi>Jeremiah</hi> and <hi>Baruch,</hi> Jer. 36. 26. 'tis ſaid, <hi>The Lord HID them;</hi> which implied their own retirement at that time.</p>
+            <p>So our Lord Jeſus himſelf, when he heard that <hi>John</hi> was caſt into Priſon, he retired into <hi>Galilee,</hi> Matth. 4. 12<g ref="char:punc">▪</g> And when he further heard that he was <hi>beheaded,</hi> he withdrew into a de<g ref="char:EOLhyphen"/>ſert place, <hi>Mat.</hi> 14. 13. And ſo when the Jews ſought to kill him, <hi>&amp;c.</hi> till his hour was come; which places are ordinarily urged by interpreters upon them for the caſe in hand.</p>
+            <p>So our Lord Jeſus allows his Diſ<g ref="char:EOLhyphen"/>ciples, <hi>Matth.</hi> 10. when he ſent them forth as ſheep among wolves, ver. 10.
+<pb n="70" facs="tcp:37427:41"/>
+that they ſhould <hi>then be wiſe as Ser<g ref="char:EOLhyphen"/>pents,</hi> walk with ſuch a wiſdom as be<g ref="char:EOLhyphen"/>comes ſheep among Wolves, which is not raſhly to put themſelves into the mouth of the Wolf. And ver. 17. bids them <hi>beware of men;</hi> and then, <hi>be<g ref="char:EOLhyphen"/>ing perſecuted into one City, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o flye unto another,</hi> v. 23. the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that word being to direct them, that when Ru<g ref="char:EOLhyphen"/>lers by their Edicts will not ſuffer them to preach in one place, they might go to another; if not in pub<g ref="char:EOLhyphen"/>like, then in private, and from Houſe to Houſe, as the providence of God ſhould lead them.</p>
+            <p>When the Jews ſought for <hi>Paul</hi> at <hi>Damaſcus,</hi> the Diſciples did not preſs him to expoſe himſelf to be delivered up into their hands, in appearing o<g ref="char:EOLhyphen"/>penly there, but on the contrary, at a hard rate conveyed him away, Acts 9. 23. 2 Cor. 11. 32. <hi>In Damaſcus, the Governor under Artas the King, kept the City with a Garriſon, deſirous to ap<g ref="char:EOLhyphen"/>prehend me; and through a Window in a
+<pb n="72" facs="tcp:37427:42"/>
+basket was I let down by the wall, I eſca<g ref="char:EOLhyphen"/>ped his hands:</hi> which the Apoſtle there ſets down among his perſecutions; when the Governor of the City would have apprended him, he thought good, and the Saints with him ſo judged, to withdraw, and yet he was not judged unfaithful or fearful in ſo doing. So <hi>Acts</hi> 14. when <hi>Paul</hi> and <hi>Barnabas</hi> had <hi>ſpoken holdly in the Lord,</hi> for a time at <hi>Iconium,</hi> when they underſtood that the Jews and Gentiles with them made an aſſault (at their meeting) to <hi>uſe them deſpightfully, and to ſtone them, they were ware of it,</hi> (they thought it ground enough that they were ware of it) and ſo fled into the next Pro<g ref="char:EOLhyphen"/>vince into <hi>Lyſtra<g ref="char:punc">▪</g>
+               </hi> When the Jews laid wait for him, <hi>Act.</hi> 20. 3. he went not into <hi>Syria,</hi> but returned thorow <hi>Macedon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a.</hi> And when the Jews had gathered a company of <hi>lewd fallows</hi> to <hi>aſſault the meeting</hi> at <hi>Jaſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> houſe, <hi>Paul</hi> and <hi>Sylas</hi> withdrew, <hi>Act.</hi> 17. 5, 6. for, <hi>they found them no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> ver. 6. And at <hi>Berea,</hi>
+               <pb n="73" facs="tcp:37427:42"/>
+the <hi>Brethren ſent away Paul,</hi> ver. 14.</p>
+            <p>So when he would have hazarded himſelf, <hi>the Diſciples ſuffered him not, Act.</hi> 19<g ref="char:punc">▪</g> 30. And when he would go up to <hi>Jeruſalem,</hi> all the Saints <hi>beſought him not to go</hi> (judging in an ordinary way he ought not,) till they nnder<g ref="char:EOLhyphen"/>ſtood that <hi>Paul</hi> was under an extraor<g ref="char:EOLhyphen"/>dinary impulſe of Spirit to go, and then they ceaſed.</p>
+            <p>The caſe of thoſe famous Miniſters and witneſſes of Chriſt at the<note place="margin">See Book of Matt<g ref="char:punc">▪</g>
+               </note> beginning of Q. <hi>Maries</hi> perſe<g ref="char:EOLhyphen"/>cution, who preached not af<g ref="char:EOLhyphen"/>ter the Queens Inhibition and Procla<g ref="char:EOLhyphen"/>mation, though it were not a binding Law, as appears by the Declaration of their Faith they gave forth when priſoners in the Kings Bench, in which they thus expreſs themſelves; <q>We are not here in priſons as Trai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ors, or ſeditious perſons, or <hi>tranſgreſſors of any Laws of this Realm;</hi> Inhibitions, Proclamations, or Commandments of the Queens Highneſs, or of any of
+<pb n="74" facs="tcp:37427:43"/>
+the Councils, God's Name be prai<g ref="char:EOLhyphen"/>ſed therefore, &amp;c.</q> Subſcribed by Dr. <hi>Taylor, Philpot, Bradford, Hooper, Ro<g ref="char:EOLhyphen"/>gers, Saunders, &amp;c.</hi> the moſt eminent Miniſters and Martyrs of that day, who it appears preached not publick<g ref="char:EOLhyphen"/>ly after the Proclamation and Act of Parliament, but were committed, as having been men famous in King <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> days, and had preached to warn the people againſt Popery, in the in<g ref="char:EOLhyphen"/>terval, before the Proclamation was publiſhed, and were taken after, and were put to death becauſe they would not deny the Truth they had formerly preached; which the ſervants of Chriſt at this day hope (through grace) they ſhal not do, if called to a tryal there<g ref="char:EOLhyphen"/>of; and how far ſeveral of the ſer<g ref="char:EOLhyphen"/>vants of the Lord have expoſed them<g ref="char:EOLhyphen"/>ſelves, notwithſtanding a former Pro<g ref="char:EOLhyphen"/>clamation, and the latter Act of Par<g ref="char:EOLhyphen"/>liament, and particular charges that way lye againſt ſome of them, ſober Chriſtians may judge, and not paſſio<g ref="char:EOLhyphen"/>nately
+<pb n="75" facs="tcp:37427:43"/>
+cenſure any of them; and the due conſideration thereof, and of what hath been ſaid in this caſe; may be more then enough to remove their prejudice, or miſtaken herein.</p>
+            <p>So that here is both precept, and multiplied examples both of the Old and New Teſtament, of the Prophets and Apoſtles, and the ordinary Mini<g ref="char:EOLhyphen"/>ſters of Chriſt, that when particular and perſonal perſecution hath been a<g ref="char:EOLhyphen"/>gainſt them, a deſign to apprehend them, and a lying in wait for them, they have at ſuch a time withdrawn, and retired themſelvs from their more publick Miniſtry.</p>
+            <p>In the ordinary providence of God, theſe Reaſons of it may be inſtanced:</p>
+            <p>1. When publick Preachers are ſent to preach to the world, and the people will not receive them, but per<g ref="char:EOLhyphen"/>ſecute them, they, after ſome patient waiting, may withdraw <hi>for a teſtimony againſt them, Mat.</hi> 10. 14. which is too
+<pb n="76" facs="tcp:37427:44"/>
+often the caſe of the ſervants of Chriſt, though it doth not fully reach the caſe in hand.</p>
+            <p>2. When the Lord Jeſus <hi>hath more wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k and ſervice for his ſervants,,</hi> and will preſerve them to a day of liberty (as hath been ſhewed of the whole generation of Saints) then he hath u<g ref="char:EOLhyphen"/>ſed to hide them by his gracious pro<g ref="char:EOLhyphen"/>vidence in a wonderful manner, and hath called them off from the publick ſtage, and kept them in the midſt of the perſecutions they have been under, or ſnatcht them out of them, as abundant inſtances might be given; ſo it is pro<g ref="char:EOLhyphen"/>pheſied, <hi>Iſa.</hi> 30. 20 <hi>That their teachers ſhould be removed into corne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> till the Captivity was over, &amp;c.</p>
+            <p>3. <hi>In mercy to the Churches,</hi> that the liberties and lives of the ſervants of Chriſt may be preſerved, to ſerve them more publickly when the Lord by his
+<pb n="77" facs="tcp:37427:44"/>
+providence ſhal make way; and in the mean time may be uſeful to the Chur<g ref="char:EOLhyphen"/>ches in a more private way; and not to ſpend them (in a kind of paſſionate courage) upon the implacable fury of their perſecutors: whence it was, that the Diſciples at <hi>Ceſarea</hi> ſo paſſionate<g ref="char:EOLhyphen"/>ly beſought <hi>Paul</hi> not to go up to <hi>Hie<g ref="char:EOLhyphen"/>ruſalem;</hi> And when he would have en<g ref="char:EOLhyphen"/>tred in among the people, the Diſci<g ref="char:EOLhyphen"/>ples <hi>ſuffered him not.</hi>
+            </p>
+            <p>This may ſuffice to ſtate and clear this caſe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the conſciences of ſuch as may be differently minded herein, which may at leaſt call for a mutual forbearance in love, and that Satan get not an advantage to ſtir up heats, heighten prejudices, beget a greater diſtance among the people of God; and ſo in ſtead of cloſing, widen the ſad breaches that have been amongſt us,</p>
+            <p>
+               <pb n="78" facs="tcp:37427:45"/>And yet when I have thus ſtated this caſe, that the call of Jeſus Chriſt may be to <hi>retire;</hi> and that 'tis lawful upon particular perſonal perſecution, for the Miniſters of Chriſt to do ſo; yet I alſo ſay with bleſsed <hi>Bucer,</hi> as he ſtates this caſe on the <hi>4th.</hi> of <hi>Matth.</hi> upon our Saviour's retirement, That there can be no abſolute, binding, unlimited Rule laid down in this caſe, that ſhall be binding in all times, and to all perſons. And 'tis hard for others to determine when a ſervant of Chriſt may more honour the Lord by retire<g ref="char:EOLhyphen"/>ment or by a publike expoſing himſelf<g ref="char:punc">▪</g> Every man in ſuch a caſe is to give up himſelf to the leading of the Spirit of the Lord, which hath carried ſome of the ſervants of Chriſt in one way, and ſome in another, in all times of perſecution accordingly, as Chriſt will be glorified by them. Though the ſame <hi>Bucer</hi> (who alſo retired in the <hi>Germane</hi> perſecution) concludes thus: <q>Where by retirement &amp; flight thou
+<pb n="79" facs="tcp:37427:45"/>
+mayeſt ſee an advantage of honoring Chriſt (<hi>tuae te horae ſervans</hi>) by with<g ref="char:EOLhyphen"/>drawing thou doſt as Chriſt himſelf did, and as <hi>Paul</hi> at <hi>Damaſcus.</hi>
+               </q>
+            </p>
+            <p>Yet that the minds of Saints may be fully ſatisfied herein, I will conſider what is uſually urged by ſome to the contrary.</p>
+            <p>
+               <hi>Obj.</hi> How do the ſervants of the Lord give forth a full <hi>Teſtimony,</hi> if they <hi>retire</hi> when Edicts are given forth againſt them, ſeeing 'tis ſaid they overcome by <hi>the Wo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of their Teſtimo<g ref="char:EOLhyphen"/>ny,</hi> Rev. 12. That we may therefore conſider how far this may reach, and when Saints may be ſaid to keep <hi>the Commandments of God, and to have the Teſtimony of Ieſus Chriſt,</hi> ver. laſt.</p>
+            <p>1. A Teſtimony is given firſt by the Preachers &amp; Witneſſes of Chriſt, by diſcovering the ſins and the Anti<g ref="char:EOLhyphen"/>chriſtian abominations of the age &amp; day they live in, and witneſſing for all the Offices, Worſhip, Kingdom of
+<pb n="80" facs="tcp:37427:46"/>
+Jeſus Chriſt, according to the Scrip<g ref="char:EOLhyphen"/>ture, as the Spirit of the Lord gives light, and acts them thereunto; and as the Providence of God opens a door to them: Bleſſed be the Father of Spirits, that through the Grace and Power of the Lord Jeſus ſuch a <hi>Teſti<g ref="char:EOLhyphen"/>mony</hi> hath been given ſorth; to the glo<g ref="char:EOLhyphen"/>ry of God, the conviction and eſta<g ref="char:EOLhyphen"/>bliſhment (as is hoped) of the people of God, which teſtimony, no doubt, the Lord will make good in his beſt time; and which they leave with God, being ſatisfied they are <hi>called</hi> by the providence of God to a more <hi>reti<g ref="char:EOLhyphen"/>red</hi> way.</p>
+            <p>2. <hi>All other Saints</hi> do keep the Te<g ref="char:EOLhyphen"/>ſtimony of Jeſus (and the Command<g ref="char:EOLhyphen"/>ments of God as oppoſed to the Com<g ref="char:EOLhyphen"/>mands of men in the matters of Chriſt and his Worſhip) when they are (through the teaching of the Spirit in the Word, and the Power of the ſame Spirit reſting upon them) kept from <hi>partaking of the ſins,</hi> polutions, and Anti-chriſtian
+<pb n="81" facs="tcp:37427:46"/>
+abominations of falſe Wor<g ref="char:EOLhyphen"/>ſhip which men would impoſe upon them, <hi>Acts 2. 40. Save your ſelves from this untoward generation,</hi> Eph. 5: 7. <hi>Be not ye therefore partakers with them,</hi> v. 11. <hi>Have no fellowſhip with the unfruitful works of darkneſs,</hi> &amp;c. <hi>Touch not the u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clean thing, be ye ſeparate, 2.</hi> Cor. 6 <hi>Come out of her my pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ple, that ye be not pa tak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs of her ſins, that ye receive not of her plagues,</hi> Rev. 18. 4.</p>
+            <p>When the profeſſing people ſhall obey the Lord in ſuch words as theſe, and not defile themſelves, nor pro<g ref="char:EOLhyphen"/>voke the Lord to jealouſie againſt them, this is a good Teſtimony, and ſuch Saints who call for extremities from others, may find this to be a Teſtimony hard enough to be kept, when they are tryed, <hi>as th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have in leſſer matters already.</hi>
+            </p>
+            <p>
+               <pb n="82" facs="tcp:37427:47"/>This Teſtimony the 7000. kept in <hi>Samaria,</hi> that bowed not their knee to <hi>Baal,</hi> and God accepted them in it. <q>And let all the Miniſters of Chriſt who would approve themſelves as ſuch, to God and his people; take heed that they are faithful in this te<g ref="char:EOLhyphen"/>ſtimony (as well as others of the people of God) and that under pre<g ref="char:EOLhyphen"/>tence of having the liberty of their Miniſtry, they are not found in com<g ref="char:EOLhyphen"/>pliance, with Humane Invention<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, againſt light, to render themſelves a ſcorn to the prophane, and a grief and ſtumbling block to the godly, eſpecially when ſuch eminent and ſevere ſtrokes from Heaven have been upon many for ſo doing.</q>
+            </p>
+            <p>3. Saints do keep the Teſtimony of Jeſus Chriſt when they are found in the practice of Chriſt's appointments, though in a more private way, which is a teſtimony againſt the perſecutions of the World, and the abominations thereof, as the primitive Chriſtians practiſed.</p>
+            <p>
+               <pb n="83" facs="tcp:37427:47"/>4. Saints do keep the word of Te<g ref="char:EOLhyphen"/>ſtimony when any of them are cal<g ref="char:EOLhyphen"/>led before men, for not partaking in falſe ways of Worſhip, and being ſo called, do not deny the truth, but con<g ref="char:EOLhyphen"/>feſs it before man, <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</hi> 10. 32, 33. <hi>Whoſoever therefore ſhall confeſs me before men, him will <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>feſs b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fore my Father which is in Heaven; But whoſoever ſhall deny me before men, him nill I alſo deny <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore my Father w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich is in Heaven.</hi> So <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſaid, <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus Chriſt wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſſed a good <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſsion before Po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tius Pilate, 1 Tim</hi> 6 Though in this caſe alſo, 'tis not eaſie to lay down the u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>moſt extent of du<g ref="char:EOLhyphen"/>ty; ſometimes the Witneſses of Chriſt have <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eely and openly, upon their convention and examination, without any proof againſt them, witneſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to the whole t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uth and ma<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er of Fact, as carryed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth, 'tis to be charitably judged by the Spirit of the Lord thereto, as in <hi>Stephens</hi> caſe, and <hi>Peter</hi>'s <hi>Acts</hi> 3.</p>
+            <p>
+               <pb n="84" facs="tcp:37427:48"/>Others have kept ſilence; and held their perſecutors to proof of matter of Fact againſt them; yet ſo as they would not <hi>deny the Truth,</hi> which is a <hi>Teſtimony</hi> to it. Now ſuch a witneſs<g ref="char:EOLhyphen"/>bearing before the Judicatories of men, as the Spirit of the Lord carries forth our ſpirits, is another way of <hi>having the Teſtimony of Jeſus Chriſt.</hi>
+            </p>
+            <p>Now if the Lord help this genera<g ref="char:EOLhyphen"/>tion of his people to be faithful to their Light in theſe particulars, they shall be found the Lambs followers, keeping the Commandments of God and the Teſtimony of Jeſus<g ref="char:punc">▪</g>
+            </p>
+            <p>But for any to judge, that nothing elſe is a finiſhing a faithful teſtimony, (but for the ſervants of Chriſt to put themſelves into the mouths of thoſe whom they know wait to devour them, and have laid a ſnare for them,
+<pb n="85" facs="tcp:37427:48"/>
+and that ſuch are un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithful, or fearful, or worſe) that think i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not their duty; certainly when good <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouls are come to themſelves, and ſhall particu<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly know and weigh the caſes of the Lord's poor ſervants, (without which 'tis unreaſonable to judge) we ſhall all have a tender hearted forbearance one of another, as that caſe re<g ref="char:EOLhyphen"/>quires.</p>
+            <p>
+               <hi>Obj.</hi> 2. But was not this the pra<g ref="char:EOLhyphen"/>ctice of the Apoſtles, <hi>Acts</hi> 4. when <hi>commmanded</hi> not to preach any more in the Name of the Lord Jeſus, they anſwered, <hi>They <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught to obey God rather than men.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> 1. I humbly conceive, that the ſervants of God at this day if they were in the like manner called before Magiſtrates, and were charged by them, as the Apoſtles were, namely, <hi>Not</hi> to preach <hi>at all,</hi> nor <hi>to teach in the Name of Jeſus</hi> (for ſo it was, they would
+<pb n="86" facs="tcp:37427:49"/>
+anſwer as the Apoſtles did, &amp; would continue preaching, where the provi<g ref="char:EOLhyphen"/>dence of God opened a way to them, as they did.</p>
+            <p>2: We do not find it expreſt that <hi>Peter</hi> and <hi>John</hi> preached openly in the <hi>Temple</hi> after that, though they witneſ<g ref="char:EOLhyphen"/>ſed and preached elſewhere, until the Angel of the Lord opened the Priſon doors, and commanded them to go and <hi>ſpeak in the Temple,</hi> Acts 5.</p>
+            <p>3. The Apoſtles having an extraor<g ref="char:EOLhyphen"/>dinary Annointing, were to witneſs to all Nations that they had ſeen the Lord, and that he was riſen from the dead; which is not the caſe of every particular Miniſter: They went and preach't by the ſpecial dictate of the holy Spirit in one place, and not in a<g ref="char:EOLhyphen"/>nother; 'tis not ſo with ordinary Prea<g ref="char:EOLhyphen"/>chers: And the ſame Spirit that led them forth ſometimes to expoſe themſelves to hazards, at another time led them to withdraw from dan<g ref="char:EOLhyphen"/>ger, as hath been ſhewed. Beſides, it
+<pb n="87" facs="tcp:37427:49"/>
+doth not appear that there was any more than a <hi>meer prohibition</hi> not to preach, to <hi>Peter</hi> and <hi>John,</hi> by the Council of the <hi>Iews,</hi> without any pe<g ref="char:EOLhyphen"/>nalty of impriſonment or baniſhment expreſsed.</p>
+            <p>3. <hi>Obj.</hi> Is not there a ſtrict com<g ref="char:EOLhyphen"/>mand, that the Profeſsors of Chriſt ſhould <hi>not forſake the aſſembling them<g ref="char:EOLhyphen"/>ſelves together, Heb.</hi> 10.</p>
+            <p>
+               <hi>Anſ.</hi> Let it be conſidered what for<g ref="char:EOLhyphen"/>ſaking of aſsembling this was; It was the departing from all Chriſtian wor<g ref="char:EOLhyphen"/>ſhip and fellowſhip; a caſting off their p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ofeſſion, as <hi>ver.</hi> 23. <hi>Let us hold faſt our profeſſion:</hi> ſuch a forſaking, as was a leading to an Apoſtacy, as is clear in the following verſes; <hi>For if we ſin wilfully after that we have received the knowledge of the Truth, &amp;c.</hi> which is annexed as a reaſon of not forſaking their aſsembling; this will not be judg<g ref="char:EOLhyphen"/>ed the preſent caſe.</p>
+            <p>2. Saints therefore do not forſake their aſsembling, in that ſence while
+<pb n="88" facs="tcp:37427:50"/>
+they hold faſt their profeſſion, and la<g ref="char:EOLhyphen"/>bour to keep up, worſhip in a more private way, where they may likely aſsemble more peaceably, and with leſs diſtraction<g ref="char:punc">▪</g> for ſo thoſe Hebrews did, and all the Churches, as hath been ſhewed.</p>
+            <p>Meeting is a duty; but meeting o<g ref="char:EOLhyphen"/>penly is an accidental thing.</p>
+            <p>4. <hi>Obj.</hi> But<g ref="char:punc">▪</g> how are the ſervants of Chriſt <hi>conſiſtent</hi> to their own Do<g ref="char:EOLhyphen"/>ctrine, who preſs others to be parta<g ref="char:EOLhyphen"/>kers of the ſufferings of Chriſt, and would prepare them for it; when they do not expoſe themſelves to the ut<g ref="char:EOLhyphen"/>moſt.</p>
+            <p>
+               <hi>Anſ.</hi> There may be a prodigal caſt<g ref="char:EOLhyphen"/>ing away of liberty or life, as well as a giving them up upon the Call of God; 'Tis certain, that 'tis a duty <hi>to offer</hi> up every <hi>Iſaac</hi> to the Lord when he <hi>Calls</hi> for it, but we muſt ſee our <hi>Call</hi> to be clear: we ſhould through grace be ready rather to ſuffer the loſs of all things, then to deny the truth, and to
+<pb n="89" facs="tcp:37427:50"/>
+follow<g ref="char:punc">▪</g> the providential leadings of God thereto: But that 'tis our duty and call from the Lord to continue <hi>publikely witneſsi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<g ref="char:punc">▪</g>
+               </hi> and to <hi>expoſe</hi> our ſelves to the utmoſt hazards, rather then give place<g ref="char:punc">▪</g> though we know the ſnare is laid for us, and we in all like<g ref="char:EOLhyphen"/>lihood put an end to our Work in ſo doing, is not yet proved to our Con<g ref="char:EOLhyphen"/>ſciences from any Word of God; but indeed the contrary is cleare to them.</p>
+            <p>If it be ſaid, that the judgement of ſome Saints is a <hi>Call</hi> herein; I an<g ref="char:EOLhyphen"/>ſwer, That the Judgement of many more may be put in the ballance againſt them, who judge otherwiſe<g ref="char:punc">▪</g> which may have as great, or it may be a greater weight with them.</p>
+            <p>
+               <hi>Obj.</hi> 5. But did not <hi>Daniel</hi> worſhip openly notwithſtanding the Decree, <hi>Dan.</hi> 6.</p>
+            <p>
+               <hi>Anſ.</hi> Whatever is ſaid to the con<g ref="char:EOLhyphen"/>trary,
+<pb n="90" facs="tcp:37427:51"/>
+it will <hi>eaſily</hi> appear that the pro<g ref="char:EOLhyphen"/>hibition and Decree was, that <hi>Daniel ſhould not pray unto his God at all,</hi> as v. 7. <hi>That whoſoever ſhall ask a Petition of any God or man for thirty dayes, ſave of thee Oh King, &amp;c.</hi> Not that <hi>Daniel</hi> and the Jews ſhould not pray towards <hi>Je<g ref="char:EOLhyphen"/>ruſalem:</hi> So that the Decree concern<g ref="char:EOLhyphen"/>ed natural moral Worſhip, and not poſitive inſtituted Worſhip, which may ſometimes be diſpenſed with.</p>
+            <p>2. <hi>Daniel</hi> in this caſe had an extraor<g ref="char:EOLhyphen"/>dinary Annointing upon him, as a Pro<g ref="char:EOLhyphen"/>phet, which carried him forth in this particular, which in every circumſtance is not to be made a ſtanding Rule: Beſides, we do not hear of ſuch an <hi>open appearing</hi> of the reſt of the people of God then in <hi>Babylon.</hi>
+            </p>
+            <p>And let it be ſeriouſly conſidered, that ſometimes God hath indulged his people in the matter of poſitive Inſti<g ref="char:EOLhyphen"/>tutions; as the <hi>Iſraelites</hi> in <hi>Egypt,</hi> who were obliged to ſacrificing, if they could have had liberty; but we do not find it practiſed while they were in <hi>Egypt:</hi>
+               <pb n="91" facs="tcp:37427:51"/>
+So of Circumciſion in the Wilderneſs there was an indulgence of it; and <hi>that rolling away the reproach of Egypt,</hi> mentioned at their circumciſion; <hi>Joſh.</hi> 5. 9. was not the reproach (as ſome learned Interpreters judge) of not being circumciſed, but of not being brought for ſo many years, into the promiſed Land, which 'tis like the <hi>Egyp ians</hi> reproached <hi>Iſrael</hi> with. So the Building of the Temple (which was Inſtitution) ceaſed, <hi>Ez<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a</hi> 4. laſt. upon the prohibition till the 2d. year of <hi>Darius,</hi> whoſe indulgence they might have ſoon had, but neglected it, and built their own houſes, and were reproved by the Prophets for their ne<g ref="char:EOLhyphen"/>glect therein.</p>
+            <p>And that word (as urged by bleſſed Mr. <hi>Burroughs</hi> in this caſe, and other of the Servants of Chriſt) is not to be ſlighted, <hi>Mal. 9. I will have mercy, and not ſacrifice,</hi> which may wel hold forth this, That the Lord hath more reſpect to a Work of Mercy, than to a Sa<g ref="char:EOLhyphen"/>crifice;
+<pb n="92" facs="tcp:37427:52"/>
+a lawful preſervation of a man's ſelf is a moral duty; a work of mercy not only to himſelf, but others; to which end a Sacrifice of inſtituted Worſhip at certain times, and in ſome caſes may be omitted.</p>
+            <p>
+               <hi>Obj.</hi> 6. But 'tis objected, That the caſe is not the ſame with that of our Saviour and the Apoſtles, whoſe lives were in hazard, but now it is not ſo, the Liberties and Livelyhoods of the Miniſters of Chriſt are onely endan<g ref="char:EOLhyphen"/>gered.</p>
+            <p>
+               <hi>Anſ.</hi> 1. The loſs of liberty &amp; live<g ref="char:EOLhyphen"/>lyhood, with the ruine of their Fami<g ref="char:EOLhyphen"/>lies, is as a <hi>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſer death,</hi> the preſervation of which is a moral duty.</p>
+            <p>But, let the caſe well be conſidered, what three Months Impriſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment in ſuch naſty holes as the <hi>Lon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> Priſons are, and it may be underſtood to a<g ref="char:EOLhyphen"/>mount to little leſs than life; and upon what terms liberty may be had at the three Months end, is not ſo eaſie to
+<pb n="93" facs="tcp:37427:52"/>
+determine; it coſt one emi<g ref="char:EOLhyphen"/>nent <note n="*" place="margin">Mr. S.</note> Miniſter his life al<g ref="char:EOLhyphen"/>ready. But if it be ſtated to be onely the loſs of liberty, it will be a tender caſe of Conſcience, whe<g ref="char:EOLhyphen"/>ther for once or twice appearing in publike, a Miniſter is to hazard his ſervice of the C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ches a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d People of God, to whom h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be uſeful in a more private way.</p>
+            <p>
+               <hi>Obj.</hi> 7. But ſuch a withdrawing may be a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offence <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſome S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ints, though moſt othe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be ſat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied.</p>
+            <p>
+               <hi>Anſ.</hi> I ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll here ſpeak a little to the caſe o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offences, becauſe Satan hath formerly had great advantage upon the Spirits of the L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd's people this way.</p>
+            <p>1. There are <hi>o<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ces</hi> that com by the ungodly, per<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecuting world, who lay ſtumbling blocks in the way of the peo<g ref="char:EOLhyphen"/>ple of God by their perſecuting them; to ſuch it is ſaid, <hi>Wo to the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orld becauſe of offences,</hi> Mat. 18. Saints are not ſure<g ref="char:EOLhyphen"/>ly to pronounce thoſe woes one upon another upon different apprehenſions of duty.</p>
+            <p>
+               <pb n="94" facs="tcp:37427:53"/>2. There are offences that ariſe among the Churches and people of God themſelves; ſuch are,</p>
+            <p>1<g ref="char:punc">▪</g> Either <hi>really given</hi> one to ano<g ref="char:EOLhyphen"/>ther. Or</p>
+            <p>
+               <hi>2dly,</hi> Through <hi>miſunderſtanding, weak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs, paſſion</hi> or <hi>temptation,</hi> are un<g ref="char:EOLhyphen"/>duly taken, and not given.</p>
+            <p>1. Concerning the former, namely, <hi>offences really given</hi> (which will too of<g ref="char:EOLhyphen"/>ten be, while we ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e but in <hi>pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> and are <hi>holy</hi> but in part) the Spirit of God calls for all <hi>forbea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance, compaſsion</hi> and <hi>reſtoring</hi> one another, and bearing one anothers burdens, according to the Royal <hi>Law of L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Gal. 6. 1, 2. Eph. 4. Ph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 2. Col. 3. 12. 1 Pet.</hi> 3. 8. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom which Scrip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures let Saints and Mem<g ref="char:EOLhyphen"/>bers of Churches learn what Spirit and carriage is required one of ano<g ref="char:EOLhyphen"/>ther in caſe of offences; which through miſcarriages, miſtakes and hours of temptations, will befall the poor children of God while they are in the fleſh, and therefore do call for
+<pb n="95" facs="tcp:37427:53"/>
+ſuch an exerciſe of grace one towards another; and not for rigid cenſuring, debaſing, treading one anothers names under their feet (or worſe) if it may be) which are fruits of the fleſh, and of the pride of our own hearts, when we ſet up a Throne in our own ſpi<g ref="char:EOLhyphen"/>rits, and all muſt bow and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all down to it, to be judged either as to mat<g ref="char:EOLhyphen"/>ter of Judgement or Practiſe, and wonderfully pleaſe our ſelves in it, which will not well conſiſt with a wel humbled heart.</p>
+            <p>2. There are Offences upon the Spirits of Saints, that are <hi>taken,</hi> but not <hi>really given,</hi> through weakneſs of Judgement, miſ-guided Zeale, Raſhneſs and Paſſions, and not attending to a well ſtudyed and rightly informed Judgement; where<g ref="char:EOLhyphen"/>by the Tempter waits to ſtumble good ſculs, and to hinder their peace and communion with the Lord.</p>
+            <p>
+               <pb n="96" facs="tcp:37427:54"/>Hence<g ref="char:punc">▪</g> the Wiſdom of God take<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpecial notice of the evils that befall the ſpirits of men in this caſe; <hi>A Bro<g ref="char:EOLhyphen"/>ther offe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded, is ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der to be non than a ſtrong City, and their conte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs of a Caſtle,</hi> Prov. 18. 19.</p>
+            <p>Yea, let it be ſeriouſly attended to by all that fear the Lord, whether all the Teachers that have been among the People of God, have not ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> either for want of a compaſſiona<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bearing of offences given, or by taking offences unduly, when not really gi<g ref="char:EOLhyphen"/>ven, and by which Satan hath been gra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied, and the u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>converted world hath been ſtumbled; and all for want of thorough-heart <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umiliati<g ref="char:EOLhyphen"/>on, Wiſdom, Love in the Spirit, whereby they ſhould be able to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udge <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oberly, and walk in peace, as becometh Saints.</p>
+            <p>But oftentimes this temptation
+<pb n="97" facs="tcp:37427:54"/>
+hath not reſted here, but as it hath been obſerved by holy men, that all backfliding and apoſtacy begins in ta<g ref="char:EOLhyphen"/>king offence, firſt offended at one thing or perſon, then at another; and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o at more, till they drink in prejudice againſt the Servants of the Lord, and the Way they walk in<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l from all ſound and ſearch<g ref="char:EOLhyphen"/>ing Miniſtery, and ſo run from M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tain to Hill, from one thing to another, till they come to no<g ref="char:EOLhyphen"/>thing<g ref="char:punc">▪</g> un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs the Lord in rich <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r them by a ſound W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rk of Humiliation upon them. <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laid in that Parable <hi>Matthew</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 12. That he <hi>that hath not r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot in hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſelf in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time of perſecution, is offen<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi> Various wayes hath Sa<g ref="char:EOLhyphen"/>tan to offend and ſtumble them: Our Lord Jeſus warned his Diſci<g ref="char:EOLhyphen"/>ples of this, <hi>Matth.</hi> 26. 31. Then ſaith J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſus unto them, <hi>All <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſhall be offended becauſe of me this Night, &amp;c.</hi>
+            </p>
+            <p>
+               <pb n="98" facs="tcp:37427:55"/>And when the Lord promiſeth to bring back the Captivity of his people, he ſaith to his ſervants, <hi>Caſt ye up, caſt ye up; prepare ye the way; take up the ſtumbling block out of the way of my peo<g ref="char:EOLhyphen"/>ple;</hi> Then will the Lord remove their offences, and heal their ſpirits, and they ſhal walk on in the way to <hi>Zio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and ſhall not ſtumble any more.</p>
+            <p>
+               <hi>Obj.</hi> 8. But doth it not proceed from carnal fear in ſuch, as judge that retirement is the duty of this day.</p>
+            <p>
+               <hi>Anſ.</hi> A grain more of love may caſt it, that the Lord's ſervants, and ſuch of the Churches that ſo judge and walk, do walk after their light, con<g ref="char:EOLhyphen"/>viction, and ſatisfaction of conſcience, which happily a little time may deter<g ref="char:EOLhyphen"/>mine.</p>
+            <p>Truly moſt of the ſons of men have an <hi>Abſoloms</hi> ſpirit, and ſay in our hearts, What would I do, if I were in ſuch, or ſuch an ones caſe? wherein our own hearts wonderfully deceive
+<pb n="99" facs="tcp:37427:55"/>
+us. Yet if any of the ſervants of the Lord have a more then ordinary im<g ref="char:EOLhyphen"/>pulſe of ſpirit at this time, (as it may be ſome have had, ſince this diſpenſa<g ref="char:EOLhyphen"/>tion of giving in their teſtimony) 'tis b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt to leave them to the Lord, with<g ref="char:EOLhyphen"/>out judging each other.</p>
+            <p>Concerning the Miniſters of Chriſt, I would humbly ſay thus much; That i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhal be found in their particular practice faithful to the light and te<g ref="char:EOLhyphen"/>ſtimony they have given forth, through the ſame grace upon them, and chuſe the greateſt of ſufferings rather then defile themſelves, and continue edify<g ref="char:EOLhyphen"/>ing of the Saints and Churches of God in a more private way, as they have opportunity, I humbly judge they ſhal be accepted with the Lord as his faithful witneſſes, and be juſt fied in the conſciences of all ſerious people; eſpecially when the iſſue of this diſ<g ref="char:EOLhyphen"/>penſation ſhall be made manifeſt.</p>
+            <p>
+               <pb n="100" facs="tcp:37427:56"/>And thus have we ſtated this caſe, we hope, according to Scripture light, and leave it with the Lord, to make it a bleſſing to any of his.</p>
+            <p>But what doth the Lord call for, <hi>by way of duty,</hi> of all his people in a time of <hi>retireme<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi>
+            </p>
+            <p>1. <hi>To ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak often one to another,</hi> Mal. 3. It was a time when there was hardly a Prieſt to ſpeak publickly to them, but ſuch as corrupted <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he worſhip of the Lord: Then <hi>they that feared the Lord ſpake often o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to ano<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord bearkened and hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d it, and a book of remembrance was written before him, for them that ſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red the Lord, and that thought upon his Name.</hi> They had great thoughts of heart for <hi>the Name</hi> of their God, and they ſpake, no doubt, of his diſpenſation, and of the ſigns of the times, and what he call'd for, to ſtrengthen, ſettle, and comfort one
+<pb n="101" facs="tcp:37427:56"/>
+another; this is the practice Saints ſhould be ſerious and conſcientious, and often in, in ſuch a day, and ſo keep up the practice of Ordinances a<g ref="char:EOLhyphen"/>mong them.</p>
+            <p>2. To bee found as the <hi>mourn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs of Z<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on:</hi> In the day of <hi>Zions</hi> breach and Captivity, the promiſe of mer<g ref="char:EOLhyphen"/>cy runs to her <hi>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> to the <hi>hum<g ref="char:EOLhyphen"/>ble</hi> and <hi>contrite</hi> ones, <hi>Iſa.</hi> 57. 15. &amp; 18. with thoſe hee will <hi>dwell,</hi> thoſe hee will <hi>revive</hi> and <hi>heal.</hi> Hee wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l not <hi>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntend always; leſt their ſpirit fail;</hi> but <hi>will reſtore comfort to the m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners. So <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſaiah</hi> Chap. 61<g ref="char:punc">▪</g> ver. 2, 3. And Chapter 60<g ref="char:punc">▪</g> verſ. 10. This was <hi>Jeremiahs<g ref="char:punc">▪</g>
+               </hi> ſpirit, <hi>In that day,</hi> Jeremiah 14<g ref="char:punc">▪</g> ver. 17. <hi>let mine eyes run down with tears, and let th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m not ceaſe; for the Virgins Daughter of my p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople is broken with a great breach, with a very grievous <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w.</hi>
+            </p>
+            <p>
+               <pb n="102" facs="tcp:37427:57"/>Oh that the Lord would give down this Spirit upon his people; as we would call for a Spirit of Bravery and Courage, which in its ſeaſon is honorable, and hath appeared upon many of the Miniſters of Chriſt) ſo let us call upon one another for this Spirit alſo, to be found mourning apart, and together in our retire<g ref="char:EOLhyphen"/>ments, for the abominations and blaſ<g ref="char:EOLhyphen"/>phemies of the land, for our former un profitableneſs, unholineſs, ſecurity, formality, hypocriſie, pride of life, diviſions, frowardneſs, back ſhdings, breach of Vows and Covenants with the Lord, ſelf-ſeekings in the manage<g ref="char:EOLhyphen"/>ment of the precious cauſe of the Lord Jeſus, which now lieth as cruci<g ref="char:EOLhyphen"/>fied: Oh! do we mourn over it, as wel as talk of it?</p>
+            <p>3. Jeſus Chriſt calls to <hi>heart<g ref="char:EOLhyphen"/>ſearching:</hi> In ſuch a day is every one to be <hi>retiring into their own hearts,</hi> and finding out the plague of them, <hi>Lam.</hi> 3. 40. In the day of their capti<g ref="char:EOLhyphen"/>vity,
+<pb n="103" facs="tcp:37427:57"/>
+then ſaith the Prophet, <hi>let us ſearch and try our ways, &amp;c.</hi>
+            </p>
+            <p>Then is every one to be awakening his own heart, every ſoul attending to a renewed repentance and humility, to renewed mortification in the ſpirit, that it may be as <hi>a day of a new conver<g ref="char:EOLhyphen"/>ſion</hi> upon all our ſpirits.</p>
+            <p>4. In ſuch a day, Jeſus Chriſt calls <hi>his to uniting,</hi> that we get all our pre<g ref="char:EOLhyphen"/>judices to be removed and healed, though under different meaſures of light; as we are upon the enquiry of our <hi>way to Zion</hi> (after the long night of Antichriſtian darkneſs) we have many ſtones in our way, and much re<g ref="char:EOLhyphen"/>maining darkneſs) upon our ſpirits, and the Lord gives out light gradually to his people in the Churches reſtoration, which calls for a mutual forbearance from all, that would ſee the <hi>beauty of Zion,</hi> and preſs after it, and not im<g ref="char:EOLhyphen"/>poſing
+<pb n="104" facs="tcp:37427:58"/>
+one upon another, much leſs devouring one another by the way. Ah! when our ſpirits are more melt<g ref="char:EOLhyphen"/>ed by the Goſpel, and we are more in the ſpirit of the Goſpel, it ſhall be ſo; then ſhall wee know one another as Saints, and upon that account have Communion together, and not bee bound up to any Form, and make it a Law of Communion, which is in<g ref="char:EOLhyphen"/>deed no better then a dreg of chriſtia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſm upon our ſpirits. Union with the Lord Jeſus is the ground of fellowſhip with him, and lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be one with another, 1. <hi>Joh.</hi> 1<g ref="char:punc">▪</g> 3 Let us all contend together for the great in<g ref="char:EOLhyphen"/>tereſt of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſpel; power of God<g ref="char:EOLhyphen"/>lineſs, purity of Worſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p as as the great and common intereſt of all that fear the Lord.</p>
+            <p>5. In retiring times the Lord calls to much <hi>ſecret duty,</hi> eſpecially of pray<g ref="char:EOLhyphen"/>er; <hi>Cant. 2. 14. Oh my Dove, that art in the clefts of the rock, &amp;c.</hi> Jeſus Chriſt
+<pb n="105" facs="tcp:37427:58"/>
+behold his Dove in the clifts of the Rock in her retirement) as hid from the wrath of her Enemies) and there ſhe mourns in a Dove <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike ſpirit, and the Lord delights to ſee her face, and hear her voice.</p>
+            <p>Some have more fully heard what great things <hi>ſingle Saints</hi> have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one in prayer for the people of God, how they have prevailed with God, as <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cob, Moſes, Joſhua, Samuel, David. E<g ref="char:EOLhyphen"/>lijah, Iſaiah, Jeremiah, Daniel,</hi> &amp;c. in their ſeveral generations, who were men of like paſſions with us: <hi>Let me alone,</hi> ſaith the Lord to one <hi>Moſes.</hi> E<g ref="char:EOLhyphen"/>very praying ſoul ſhould be ſo awake<g ref="char:EOLhyphen"/>ned and engaged in this Work at this day, as if the whole lay upon his, or her ſhoulders; as if his cryes (even a<g ref="char:EOLhyphen"/>lone) were to prevail for <hi>Zion's</hi> deli<g ref="char:EOLhyphen"/>verance.</p>
+            <p>Oh my dear Companions in the Kingdome and Patience of Jeius Chriſt, cry mightily, and ſigh with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itrerneſs and unutterable groans,
+<pb n="106" facs="tcp:37427:59"/>
+pour out your ſouls as water before the Lord, becauſe of the ſinne and breach of the people of your God; Oh cry for <hi>Healing</hi> for <hi>Zion<g ref="char:punc">▪</g>
+               </hi> cry for your Bread, thoſe precious Goſpel<g ref="char:EOLhyphen"/>feedings of which you are bereft; cry againſt <hi>Babylon,</hi> and the Horns that are pouring ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the blood of your Bre<g ref="char:EOLhyphen"/>thren: Cry <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the ruine of the Beaſts Kingdom, and the exaltation of the Throne of Jeſus Chriſt in the world. 'Tis ſaid <hi>Dan.</hi> 7. 13. <hi>One like the Son of Man came to the Ancient of Dayes, and they brought him near before him.</hi> Saints by Faith and Prayer do bring the Son of Man near before the Father; <hi>And then there was given him Dominion, Glo<g ref="char:EOLhyphen"/>ry, and a Kingdom,</hi> that all <hi>People, Na<g ref="char:EOLhyphen"/>tions and Languages ſhould ſerve him,</hi> ver. 14.</p>
+            <p>If ſuch a <hi>Spirit</hi> be given forth in the <hi>entering into our Chambers,</hi> verily the wind thereof ſhall put ſuch an <hi>Earth<g ref="char:EOLhyphen"/>quake into the tenth part of the City,</hi> and the Foundations that are now laying,
+<pb n="107" facs="tcp:37427:59"/>
+               <hi>that it ſhall be like a breach, ready to fall, ſwelling out in a high wall, whoſe br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ak<g ref="char:EOLhyphen"/>ing come<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ſuddenly a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ani<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtant.</hi> Iſa. 30 13. 14. And the Adverſaries of the Lord ſhall not ſee whence their blow cometh. Certainly never did ſuch a praying generation miſcarry.</p>
+            <p>6. In retiring times the People of God ſhould <hi>walk w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſely,</hi> at ſuch a time when a man is made an <hi>offendor for a word:</hi> Let us all labour to do all in the Wiſdom of Jeſus Chriſt, in our walking towards the World, in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſſembling, in our particular walk<g ref="char:EOLhyphen"/>ings, in our <hi>ſilence</hi> and in our <hi>ſpeaking<g ref="char:punc">▪</g>
+               </hi> leſt not onely themſelves, but their Brethren alſo ſuffer by their weakneſs and folly: <hi>Whoſo <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lketh wiſely, ſhall be delivered,</hi> Prov. 28. 26.</p>
+            <p>7. In retiring times Jeſus Chriſt calls for bowels towards the affl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions and neceſſities of Brethren; this is a ſpecial duty of the day; ſome thou<g ref="char:EOLhyphen"/>ſands
+<pb n="108" facs="tcp:37427:60"/>
+of Families are bereft of their bread, while the Lord hath ſpared to others a full portion, not onely in m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to themſelves, but to be a bleſ<g ref="char:EOLhyphen"/>ſing to their diſtreſſed Brethren. Bleſ<g ref="char:EOLhyphen"/>ſed be the Lord for what he hath done upon the ſpirit of his ſervants in this thing already; A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the diſtreſs will en<g ref="char:EOLhyphen"/>creaſe, ſo ſhould the hearts and bow<g ref="char:EOLhyphen"/>els of ſuch in whoſe hand it is, be en<g ref="char:EOLhyphen"/>larged, elſe let not them think to par<g ref="char:EOLhyphen"/>take of the day of mercy, if they ſhew no mercy to their Brethren, when the preſent diſpenſation ſo eminently calls for it. A blaſt from Heaven wil come forth upon the Eſtates, Families, Names, Spirits of ſuch profeſſors who with-hold bread from the hun<g ref="char:EOLhyphen"/>gry, and caſt it not upon the waters in ſuch a day. Never was ſuch an oppor<g ref="char:EOLhyphen"/>tunity put into the hands of any gene<g ref="char:EOLhyphen"/>rations, to ſhew much kindneſſe to Chriſt and his Saints, as at this day, never ſuch a time to <hi>lay up much trea<g ref="char:EOLhyphen"/>ſure in Heaven<g ref="char:punc">▪</g>
+               </hi>
+               <pb n="109" facs="tcp:37427:60"/>
+8. The day calls for reſignment to the will of God, to ſuffer or to do according to his good pleaſure. The Lord hath triumphed in ſome of his ſuffering ones, who have gloriouſly overcome by the Blood of the Lamb; not loving their lives <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to the death; 'tis poſſible ſome others may be called forth in the ſame way, many to pri<g ref="char:EOLhyphen"/>ſons, and much hardſhip; Oh! let us be reſigned up to the will of Jeſus Chriſt, to be contented he ſhould glo<g ref="char:EOLhyphen"/>rifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf upon us which way hee pleaſeth: Live upon that faithful ſaying, 2 <hi>Tim.</hi> 2. <hi>v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> 11, 12. <hi>If we ſuffer with him, we ſhall alſo re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gn w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th him;</hi> what more can be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſired<g ref="char:punc">▪</g>
+            </p>
+            <p>You have the <hi>p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>miſe</hi> of Jeſus Chriſt <hi>to be with you</hi> in what he <hi>calls</hi> you to, and you have the rich <hi>experi<g ref="char:EOLhyphen"/>ence</hi> of your Brethren of his <hi>faithful<g ref="char:EOLhyphen"/>neſs</hi> therein, who triumphed over death, in a ſpirit of glory that was
+<pb n="110" facs="tcp:37427:61"/>
+upon them; for the Lords Priſoners, even in every Priſon of <hi>England,</hi> their hearts are full of the praiſes of the Lord, crying (to the amazement of their Perſecutors) Bleſſed be the Lord for a Priſon; let not our Brethren be diſcouraged, for Chriſt w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll meet them, and walk with them there: This may quiet the hearts of all Saints, and not be troubled, in caſe the Providence of God ſo diſpoſe of them; and yet they are to walk wiſely in this, not expoſing themſelvs beyond what they ſee the Lord clear<g ref="char:EOLhyphen"/>ly calling themto, and their own con<g ref="char:EOLhyphen"/>ſcience ſatisfied therein: A good Cauſe, a good Call, &amp; a good Con<g ref="char:EOLhyphen"/>ſcience makes a mans ſufferings ſweet to him. A ſervant of Chriſt may be in a good Cauſe, and in a good work, in a Chriſtian du<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have a <hi>clear Call</hi> at that time and ſeaſon to it.</p>
+            <p>
+               <pb n="111" facs="tcp:37427:61"/>9. The Lord calls for Cruci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied<g ref="char:EOLhyphen"/>neſs to the world; a weanedneſs from all Creature comforts; Redemption from all Earthly Intereſts, that their hearts be looſned from them. The world was got into the hearts of Pro<g ref="char:EOLhyphen"/>feſſors, now it muſt be caſt out, and the heart crucified to it, if they think to follow the Lamb at this day. Let every Believer improve his fellowſhip with the death of Jeſus Chriſt to this purpoſe, and by Faith realize Chriſt, and heaven, and glory, and for the heart to feed upon them, that the world be not as a weight upon their ſpirits; which hath already drowned, enſnared, perverted too many, and is the very bane of profeſſion, if not to the falling ſhort of the Kingdom of God, yet as to their own comfort, &amp; their ſerving the Lord in their Gene<g ref="char:EOLhyphen"/>ration. Jeſus Chriſt never much ho<g ref="char:EOLhyphen"/>nored a worldly Profeſſor, or if ſo, if the world at laſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook hold of him, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s upon him.</p>
+            <p>
+               <pb n="112" facs="tcp:37427:62"/>1. In retiring times the Lord calls to waiting, a patient waiting; <hi>I charge you that you ſleep not, nor awake my Lov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>till he pleaſe,</hi> ſaith the Spouſe, <hi>Cant.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 7. The Soouſe was contented to <hi>wait for him:</hi> That word of <hi>Eſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> chap. 52. 12. ſhould be pondered by all that fear the Lord; <hi>For ye ſhall not go out in haſt, nor go by flight, for the Lord will go before you, and the God of Iſrael will be your Re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eward.</hi> The word refers to the day of the Captivity; they ſhould not go out by haſt, but <hi>ſee the Lord going before them</hi> by ſome ſignal providence or other, as a call to them to go forth: Then the Lord faith he would be their Rereward, though the Enemy purſue them, they ſhould not be able to harm them; the Lord in ſome Cloud or Pillar of Providence or other, will call <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth his People, and they ſhall hear his voice, and follow him.</p>
+            <p>
+               <pb n="113" facs="tcp:37427:62"/>Precipitancy is the iſſue of unbe<g ref="char:EOLhyphen"/>lief, men do not hang upon the Arm of the Lord, when impatiency carries them to ſuch precipitancy.</p>
+            <p>Specially let us take heed to this, When the Lord is caſting in ſuch <hi>Harbingers as fore-runners of his com<g ref="char:EOLhyphen"/>ing,</hi> by ſigns and wonders in the Hea<g ref="char:EOLhyphen"/>ven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and on the Earth, and on the Seas; yea, it may be by <hi>special Viſi<g ref="char:EOLhyphen"/>ſion</hi> to ſome of his Servants, and the expectation of Saints generally raiſed to look for him. Oh let us <hi>wait, for he will bring diſtreſſe upon his Enemies, that they ſhall walk as blind men; Neither ſhall their silver nor their Gold be able to deliver them in the Day of the Lords Wrath upon t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em,</hi> Zeph. 1. 17. <hi>For behold the Lord cometh out of his place, to puniſh the inhabitants of the Earth for their ini<g ref="char:EOLhyphen"/>quity, and the Earth ſhall diſcloſe her <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lood.</hi> Iſa. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> v. laſt.</p>
+            <p>
+               <pb n="114" facs="tcp:37427:63"/>11. As Saints are patiently to wait, ſo alſo to take heed that they do not fall aſleep: I ſay, the Lord delayeth, &amp;c to let them be girt up, as expecting their Lord calls<g ref="char:punc">▪</g> and be ready to <hi>follow him whereſoever he goe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, &amp;c.</hi> let them not ſay in their hearts, that the Lord hath for<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken his people, that he is carrying the goſpel from <hi>England,</hi> that it is like to be as in the <hi>Bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emian</hi> day; and ſo be conſulting to make haſte by flight into other Countr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys (unleſs ſuch whoſe caſe may be pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uliar) ve<g ref="char:EOLhyphen"/>rily this would be for a provocation; this would be the bitter fruit o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>unbe<g ref="char:EOLhyphen"/>lief:</hi> lo, the Lord will hide you in your own land, and keep you as the apple of his Eye, (<hi>hid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy ſelfe as it were for a little moment</hi>) fre<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not againſt the Lord, though you are called off from your publike Aſſemblies, and your Miniſters laid as dead: Verily the Lord, who holdeth his Stars in his right hand, will cauſe them to ſhine <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth again, and they ſhall give a more
+<pb n="115" facs="tcp:37427:63"/>
+glorious light; the Lord will be a<g ref="char:EOLhyphen"/>gainſt the fooliſh Shepheards that would devour the Flock, and wil de<g ref="char:EOLhyphen"/>liver them out of their mouths, and he will make them as the <hi>dung of the Earth;</hi> they ſhall no more <hi>ſpeak l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es in the Name of the Lord;</hi> but the Haile<g ref="char:EOLhyphen"/>ſtrom ſhall ſweep away the refuge of lyes, and the eyes of this generation ſhall ſee it. Be making ready for the glorious appearance of the Lord, and cry, <hi>Mak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haſt my bel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved, and be thou l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Roe, or to a young Hart upon the Mountains of Spices.</hi>
+            </p>
+            <p>12. <hi>Wait for an Annointing of Light, Zeal and Magnanimity,</hi> to execute the vengeance of the Lord upon the beaſt; for Wrath is determined from the Lord, and the Nations ſhall tremble becauſe of it, and the Cup of it ſhall ſpeedilybe put into theirhands, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hough they have ſaid, A confederacy, and there is a healing and peace among them, and the <hi>Teſtimony lyes dead,</hi> yet
+<pb n="116" facs="tcp:37427:64"/>
+the Lord will come upon them as the breach of many waters. Let that word of our Lord dwell upon your hearts, for the day of it is coming upon the World, Luke 21. 25. &amp;c. <hi>An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there ſhall be ſignes in the Sun, and in the Moon, and in the Stars, and upon the Earth</hi> DISTRESS of NATIONS, <hi>with perplexity, the Sea, and the waters roaring, mens hearts failing them for fear, and for looking after thoſe things which are coming on the Earth; for the Power of Heaven ſhall be ſhaken; and th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhall they ſee the Son of Man coming in a Cloud, with Power and grea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glory<g ref="char:punc">▪</g> And when theſe things begin <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o come <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o paſs, then look up, and lift up your h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ads,</hi> FOR YOUR REDEMPTION DRAWETH NIGH.</p>
+            <p>No age of the world hath produ<g ref="char:EOLhyphen"/>ced ſuch a ſeries of Signs and Won<g ref="char:EOLhyphen"/>ders as this hath done, in theſe two years laſt paſt, (which are ſtill mul<g ref="char:EOLhyphen"/>tiplied) which though neglected and blaſphemed by a generation of ſcof<g ref="char:EOLhyphen"/>fers,
+<pb n="117" facs="tcp:37427:64"/>
+yet are to be had in reverence by all that fear the Lord, and <hi>regard the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of his hands:</hi> Which ſigns uſu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly be ſpeak <hi>diſtreſſe of Nations;</hi> and th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that obſerve them, are cal<g ref="char:EOLhyphen"/>led <hi>to li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t up th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ead<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> The voice of the Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Egypt</hi> in the ſignes and wonders of that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y, was, <hi>Let my peo<g ref="char:EOLhyphen"/>ple go, that they may ſerve me,</hi> Exod. 16. 14, 16. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. 8. 1. ch. 9. 1. 13. ch. 10. 3. And when <hi>Ph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roah</hi> refuſed <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the People of God go free</hi> that they might ſerve the Lord, and hard<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ned himſelf againſt the wonders of God, it proved his and the <hi>Egyptians</hi> deſtruction, and wrath was upon them, and the Lord by a ſtrong hand let his people go. But this Conſideration would require a larger diſcuſſion. Let what hath been hinted, help you to a patient waiting; let us ſay with good <hi>Jere<g ref="char:EOLhyphen"/>miah,</hi> Chap. 14. verſ. laſt. <hi>Art not thou he, Oh Lord our God? therefore we will wait upon thee, for thou haſt made all theſe things.</hi>
+            </p>
+            <p>
+               <pb n="118" facs="tcp:37427:65"/>The Lord will raiſe the expectation of his Saints, (as he hath already be<g ref="char:EOLhyphen"/>gun) and then he will come into them, <hi>Pſal</hi> 9. 15. then, 'tis but for a moment, a <hi>little</hi> moment, nay, but <hi>as it were,</hi> a little moment, ſcarce to be call'd a lit<g ref="char:EOLhyphen"/>tle moment, but <hi>as it were</hi> ſo; and the <hi>indignation ſhall be over-paſt:</hi> The Lord would aſſure his poor people<g ref="char:punc">▪</g> That he waits but his ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>teſt ſeaſon, as if delay were more grievous to him than to his people: Who would not wait for ſuch a God? Oh! <hi>bleſſed be all they that wait for him,</hi> Iſa. 30. 8. Take that word which the Lord hath ſpo<g ref="char:EOLhyphen"/>ken to one or another of his poor ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>vants, <hi>Pſ.</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 34. Wait on the Lord, and keep his way, and he ſhall exalt thee to inherit the land when the wick<g ref="char:EOLhyphen"/>ed are cut off: THOU SHALT SEE IT.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37427:65"/>
+         </div>
+      </body>
+   </text>
+</TEI>
